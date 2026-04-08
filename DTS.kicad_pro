@@ -641,6 +641,34 @@
     [
       "edbb3e30-50b9-4f34-86fa-253f15fca6b8",
       "Multiplexer_6b2"
+    ],
+    [
+      "60cf81cc-e4e5-4751-8bdc-8a094e4e39c9",
+      "Multiplier"
+    ],
+    [
+      "828ca9c0-dcdc-401c-b27e-e3b57f132ea1",
+      "FullAdder"
+    ],
+    [
+      "65d8d6b3-4839-42a8-a068-6b97ae912901",
+      "FullAdder1"
+    ],
+    [
+      "a9736559-c044-442b-a6ae-1f2d06f10899",
+      "FullAdder2"
+    ],
+    [
+      "f85719bc-09cd-4203-8ebc-6584b445b3e9",
+      "FullAdder3"
+    ],
+    [
+      "a3f7405b-b1e8-4006-b186-e31124139b94",
+      "FullAdder4"
+    ],
+    [
+      "5d885796-f762-4742-ab2d-2a53c9c306a2",
+      "FullAdder5"
     ]
   ],
   "text_variables": {}

@@ -625,6 +625,22 @@
     [
       "acfefd94-800b-451c-9f4d-f2224fe06d88",
       "FullAdder2"
+    ],
+    [
+      "fcec0733-85ae-4916-ae1b-af5045bbbd48",
+      "Multiplexer_3b"
+    ],
+    [
+      "1b4767af-6d2a-45b6-b39c-4deab7c87653",
+      "Multiplexer_6b"
+    ],
+    [
+      "3e954dad-d4b4-4e32-b750-ee2494457dfb",
+      "Multiplexer_6b1"
+    ],
+    [
+      "edbb3e30-50b9-4f34-86fa-253f15fca6b8",
+      "Multiplexer_6b2"
     ]
   ],
   "text_variables": {}

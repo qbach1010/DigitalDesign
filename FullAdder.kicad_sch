@@ -2556,7 +2556,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 152.4) (xy 231.14 152.4)
+			(xy 180.34 99.06) (xy 186.69 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2566,7 +2566,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 73.66) (xy 99.06 73.66)
+			(xy 35.56 99.06) (xy 40.64 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2576,7 +2576,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 127) (xy 77.47 127)
+			(xy 73.66 93.98) (xy 77.47 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2586,7 +2586,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 128.27) (xy 153.67 132.08)
+			(xy 194.31 24.13) (xy 194.31 27.94)
 		)
 		(stroke
 			(width 0)
@@ -2626,7 +2626,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 147.32) (xy 231.14 147.32)
+			(xy 180.34 93.98) (xy 186.69 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2656,7 +2656,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 151.13) (xy 185.42 151.13)
+			(xy 186.69 118.11) (xy 181.61 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2716,7 +2716,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 106.68) (xy 99.06 106.68)
+			(xy 93.98 73.66) (xy 99.06 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2736,7 +2736,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 118.11) (xy 271.78 121.92)
+			(xy 217.17 24.13) (xy 217.17 27.94)
 		)
 		(stroke
 			(width 0)
@@ -2746,7 +2746,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 149.86) (xy 251.46 149.86)
+			(xy 201.93 96.52) (xy 207.01 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2756,7 +2756,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 146.05) (xy 185.42 146.05)
+			(xy 186.69 113.03) (xy 181.61 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2766,7 +2766,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 142.24) (xy 96.52 142.24)
+			(xy 92.71 109.22) (xy 96.52 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2776,7 +2776,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 175.26) (xy 66.04 175.26)
+			(xy 77.47 142.24) (xy 66.04 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2796,7 +2796,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 109.22) (xy 74.93 109.22)
+			(xy 78.74 76.2) (xy 74.93 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2826,7 +2826,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 130.81) (xy 226.06 130.81)
+			(xy 186.69 77.47) (xy 181.61 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2866,7 +2866,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 90.17) (xy 99.06 90.17)
+			(xy 35.56 115.57) (xy 40.64 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2886,7 +2886,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 175.26) (xy 96.52 175.26)
+			(xy 92.71 142.24) (xy 96.52 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2896,7 +2896,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 127) (xy 96.52 127)
+			(xy 92.71 93.98) (xy 96.52 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2916,7 +2916,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 142.24) (xy 77.47 142.24)
+			(xy 73.66 109.22) (xy 77.47 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2926,7 +2926,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 158.75) (xy 96.52 158.75)
+			(xy 92.71 125.73) (xy 96.52 125.73)
 		)
 		(stroke
 			(width 0)
@@ -2936,7 +2936,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 157.48) (xy 153.67 161.29)
+			(xy 194.31 53.34) (xy 194.31 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2946,7 +2946,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 104.14) (xy 78.74 104.14)
+			(xy 74.93 71.12) (xy 78.74 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2956,7 +2956,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 133.35) (xy 250.19 133.35)
+			(xy 201.93 80.01) (xy 205.74 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2966,7 +2966,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 135.89) (xy 226.06 135.89)
+			(xy 186.69 82.55) (xy 181.61 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2986,7 +2986,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 148.59) (xy 209.55 148.59)
+			(xy 201.93 115.57) (xy 205.74 115.57)
 		)
 		(stroke
 			(width 0)
@@ -2996,7 +2996,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 147.32) (xy 271.78 151.13)
+			(xy 217.17 53.34) (xy 217.17 57.15)
 		)
 		(stroke
 			(width 0)
@@ -3016,7 +3016,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 158.75) (xy 77.47 158.75)
+			(xy 73.66 125.73) (xy 77.47 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3025,7 +3025,7 @@
 		(uuid "fcb43ccc-438c-43c5-a8ff-0dfa080ceb51")
 	)
 	(label "xy'"
-		(at 99.06 106.68 0)
+		(at 99.06 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3045,7 +3045,7 @@
 		(uuid "0d078ac7-41af-4f6c-b8ca-c4db43423c1c")
 	)
 	(label "xy' + x'y"
-		(at 250.19 133.35 0)
+		(at 205.74 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3055,7 +3055,7 @@
 		(uuid "1dd48065-d9f0-45cb-8527-aad16fa53a1a")
 	)
 	(label "xy"
-		(at 185.42 146.05 0)
+		(at 181.61 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3065,7 +3065,7 @@
 		(uuid "24c92ec9-5bb8-420a-9eaf-6062b4399f56")
 	)
 	(label "y'"
-		(at 96.52 142.24 0)
+		(at 96.52 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3095,7 +3095,7 @@
 		(uuid "53eb7a72-3d57-492d-b0c3-add0b15cd59e")
 	)
 	(label "xy'"
-		(at 226.06 130.81 0)
+		(at 181.61 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3125,7 +3125,7 @@
 		(uuid "66fa3871-5a05-47e1-b9aa-f70eeff3a21d")
 	)
 	(label "x'"
-		(at 96.52 127 0)
+		(at 96.52 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3135,7 +3135,7 @@
 		(uuid "674cc461-f02d-4d8a-8236-4d4d4cb2856d")
 	)
 	(label "xy' + x'y"
-		(at 66.04 175.26 0)
+		(at 66.04 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3145,7 +3145,7 @@
 		(uuid "6e4fe739-279f-4eda-bc0e-5343282bc728")
 	)
 	(label "(xy' + x'y)'"
-		(at 96.52 175.26 0)
+		(at 96.52 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3165,7 +3165,7 @@
 		(uuid "8943961b-626a-423a-adab-fc6ae5fb16b9")
 	)
 	(label "temp3"
-		(at 185.42 151.13 0)
+		(at 181.61 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3175,7 +3175,7 @@
 		(uuid "91a7adf3-79fb-4468-932a-486ca163ca89")
 	)
 	(label "y'"
-		(at 74.93 109.22 0)
+		(at 74.93 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3185,7 +3185,7 @@
 		(uuid "95110fa0-9c30-41f1-b814-e646f93a3684")
 	)
 	(label "temp2"
-		(at 224.79 152.4 0)
+		(at 180.34 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3195,7 +3195,7 @@
 		(uuid "9ead1b0f-61fd-4191-910b-9fa25710bbb0")
 	)
 	(label "c_in'"
-		(at 96.52 158.75 0)
+		(at 96.52 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3215,7 +3215,7 @@
 		(uuid "acad5de9-0e22-4551-87f6-5525cd37a6e0")
 	)
 	(label "x'y"
-		(at 226.06 135.89 0)
+		(at 181.61 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3235,7 +3235,7 @@
 		(uuid "c0f29672-c1d8-4e1c-8b7c-437955802520")
 	)
 	(label "temp1"
-		(at 224.79 147.32 0)
+		(at 180.34 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3263,28 +3263,6 @@
 			(justify left bottom)
 		)
 		(uuid "cd51bb33-c874-4dd2-8f17-433edaf044de")
-	)
-	(global_label "xy"
-		(shape input)
-		(at 99.06 57.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b7efc986-f4bb-474e-8f5e-b089736af44e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.0409 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 	)
 	(hierarchical_label "GND"
 		(shape passive)
@@ -3343,7 +3321,7 @@
 	)
 	(hierarchical_label "c_in"
 		(shape input)
-		(at 73.66 158.75 180)
+		(at 73.66 125.73 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3354,7 +3332,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 153.67 161.29 270)
+		(at 194.31 57.15 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3365,7 +3343,7 @@
 	)
 	(hierarchical_label "y"
 		(shape input)
-		(at 73.66 142.24 180)
+		(at 73.66 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3409,7 +3387,7 @@
 	)
 	(hierarchical_label "c_out"
 		(shape output)
-		(at 209.55 148.59 0)
+		(at 205.74 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3420,7 +3398,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 153.67 128.27 90)
+		(at 194.31 24.13 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3442,7 +3420,7 @@
 	)
 	(hierarchical_label "x"
 		(shape input)
-		(at 74.93 104.14 180)
+		(at 74.93 71.12 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3453,7 +3431,7 @@
 	)
 	(hierarchical_label "GND"
 		(shape passive)
-		(at 271.78 151.13 270)
+		(at 217.17 57.15 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3464,7 +3442,7 @@
 	)
 	(hierarchical_label "x"
 		(shape input)
-		(at 73.66 127 180)
+		(at 73.66 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3497,7 +3475,7 @@
 	)
 	(hierarchical_label "sum"
 		(shape output)
-		(at 251.46 149.86 0)
+		(at 207.01 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3519,7 +3497,7 @@
 	)
 	(hierarchical_label "VCC"
 		(shape passive)
-		(at 271.78 118.11 90)
+		(at 217.17 24.13 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3530,7 +3508,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 85.09 175.26 0)
+		(at 85.09 142.24 0)
 		(unit 6)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3539,7 +3517,7 @@
 		(fields_autoplaced yes)
 		(uuid "090ba51d-31ec-4ec9-a63a-b62bf15daeb8")
 		(property "Reference" "U3"
-			(at 85.09 166.37 0)
+			(at 85.09 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3547,7 +3525,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 85.09 168.91 0)
+			(at 85.09 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3555,7 +3533,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 85.09 175.26 0)
+			(at 85.09 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3564,7 +3542,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 85.09 175.26 0)
+			(at 85.09 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3573,7 +3551,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 85.09 175.26 0)
+			(at 85.09 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3642,7 +3620,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4071")
-		(at 198.12 133.35 0)
+		(at 27.94 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3651,7 +3629,7 @@
 		(fields_autoplaced yes)
 		(uuid "0fa79352-6a65-43a2-8e2a-ce142fde45ef")
 		(property "Reference" "U4"
-			(at 198.12 124.46 0)
+			(at 27.94 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3659,7 +3637,7 @@
 			)
 		)
 		(property "Value" "4071"
-			(at 198.12 127 0)
+			(at 27.94 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3667,7 +3645,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 198.12 133.35 0)
+			(at 27.94 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3676,7 +3654,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 198.12 133.35 0)
+			(at 27.94 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3685,7 +3663,7 @@
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
-			(at 198.12 133.35 0)
+			(at 27.94 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3866,7 +3844,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 85.09 127 0)
+		(at 85.09 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3875,7 +3853,7 @@
 		(fields_autoplaced yes)
 		(uuid "1adf060d-5a32-4653-9031-b828075ecb18")
 		(property "Reference" "U3"
-			(at 85.09 118.11 0)
+			(at 85.09 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3883,7 +3861,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 85.09 120.65 0)
+			(at 85.09 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3891,7 +3869,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 85.09 127 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3900,7 +3878,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 85.09 127 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3909,7 +3887,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 85.09 127 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3978,7 +3956,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4071")
-		(at 271.78 134.62 0)
+		(at 217.17 40.64 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3987,7 +3965,7 @@
 		(fields_autoplaced yes)
 		(uuid "21ce3b7b-3410-4169-a389-6b7715260b6f")
 		(property "Reference" "U4"
-			(at 278.13 133.3499 0)
+			(at 223.52 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3996,7 +3974,7 @@
 			)
 		)
 		(property "Value" "4071"
-			(at 278.13 135.8899 0)
+			(at 223.52 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4005,7 +3983,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 271.78 134.62 0)
+			(at 217.17 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4014,7 +3992,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 271.78 134.62 0)
+			(at 217.17 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4023,7 +4001,7 @@
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
-			(at 271.78 134.62 0)
+			(at 217.17 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4092,7 +4070,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 125.73 127 0)
+		(at 27.94 132.08 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4101,7 +4079,7 @@
 		(fields_autoplaced yes)
 		(uuid "5a7d160a-380e-4894-bfbe-e28febb9e432")
 		(property "Reference" "U3"
-			(at 125.73 118.11 0)
+			(at 27.94 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4109,7 +4087,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 125.73 120.65 0)
+			(at 27.94 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4117,7 +4095,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 125.73 127 0)
+			(at 27.94 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4126,7 +4104,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 125.73 127 0)
+			(at 27.94 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4135,7 +4113,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 125.73 127 0)
+			(at 27.94 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4430,7 +4408,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 85.09 158.75 0)
+		(at 85.09 125.73 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4439,7 +4417,7 @@
 		(fields_autoplaced yes)
 		(uuid "6d35e6e0-0fce-4e6f-b1c3-56461bb140ac")
 		(property "Reference" "U3"
-			(at 85.09 149.86 0)
+			(at 85.09 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4447,7 +4425,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 85.09 152.4 0)
+			(at 85.09 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,7 +4433,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 85.09 158.75 0)
+			(at 85.09 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4464,7 +4442,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 85.09 158.75 0)
+			(at 85.09 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4473,7 +4451,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 85.09 158.75 0)
+			(at 85.09 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +4825,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4071")
-		(at 238.76 133.35 0)
+		(at 194.31 80.01 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4856,7 +4834,7 @@
 		(fields_autoplaced yes)
 		(uuid "96e2415b-52d0-464b-8a37-65865ab09b59")
 		(property "Reference" "U4"
-			(at 238.76 124.46 0)
+			(at 194.31 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4864,7 +4842,7 @@
 			)
 		)
 		(property "Value" "4071"
-			(at 238.76 127 0)
+			(at 194.31 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4872,7 +4850,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 238.76 133.35 0)
+			(at 194.31 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4881,7 +4859,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 238.76 133.35 0)
+			(at 194.31 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4890,7 +4868,7 @@
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
-			(at 238.76 133.35 0)
+			(at 194.31 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4959,7 +4937,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 125.73 142.24 0)
+		(at 27.94 147.32 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4968,7 +4946,7 @@
 		(fields_autoplaced yes)
 		(uuid "97358d91-ec2d-4ca8-9074-5b26a39098ee")
 		(property "Reference" "U3"
-			(at 125.73 133.35 0)
+			(at 27.94 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4976,7 +4954,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 125.73 135.89 0)
+			(at 27.94 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4984,7 +4962,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 125.73 142.24 0)
+			(at 27.94 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4993,7 +4971,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 125.73 142.24 0)
+			(at 27.94 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +4980,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 125.73 142.24 0)
+			(at 27.94 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5071,7 +5049,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 85.09 142.24 0)
+		(at 85.09 109.22 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5080,7 +5058,7 @@
 		(fields_autoplaced yes)
 		(uuid "9bd6c8d6-2139-4961-9415-9f24a87e9cfc")
 		(property "Reference" "U3"
-			(at 85.09 133.35 0)
+			(at 85.09 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5088,7 +5066,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 85.09 135.89 0)
+			(at 85.09 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5096,7 +5074,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 85.09 142.24 0)
+			(at 85.09 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5105,7 +5083,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 85.09 142.24 0)
+			(at 85.09 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5114,7 +5092,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 85.09 142.24 0)
+			(at 85.09 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5183,7 +5161,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4071")
-		(at 238.76 149.86 0)
+		(at 194.31 96.52 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5192,7 +5170,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5694638-d398-405d-82ac-77b45c1bc02c")
 		(property "Reference" "U4"
-			(at 238.76 140.97 0)
+			(at 194.31 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5200,7 +5178,7 @@
 			)
 		)
 		(property "Value" "4071"
-			(at 238.76 143.51 0)
+			(at 194.31 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5208,7 +5186,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 238.76 149.86 0)
+			(at 194.31 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5217,7 +5195,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 238.76 149.86 0)
+			(at 194.31 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5226,7 +5204,7 @@
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
-			(at 238.76 149.86 0)
+			(at 194.31 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5295,7 +5273,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4081")
-		(at 86.36 73.66 0)
+		(at 27.94 99.06 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5304,7 +5282,7 @@
 		(fields_autoplaced yes)
 		(uuid "ab769ce9-790d-4f66-8028-344340f86d56")
 		(property "Reference" "U1"
-			(at 86.3517 64.77 0)
+			(at 27.9317 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5312,7 +5290,7 @@
 			)
 		)
 		(property "Value" "4081"
-			(at 86.3517 67.31 0)
+			(at 27.9317 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5320,7 +5298,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 86.36 73.66 0)
+			(at 27.94 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5329,7 +5307,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 86.36 73.66 0)
+			(at 27.94 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5338,7 +5316,7 @@
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
-			(at 86.36 73.66 0)
+			(at 27.94 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5519,7 +5497,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4081")
-		(at 86.36 90.17 0)
+		(at 27.94 115.57 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5528,7 +5506,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2610aa6-91a8-4911-a27e-6768d8d6af06")
 		(property "Reference" "U1"
-			(at 86.3517 81.28 0)
+			(at 27.9317 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5536,7 +5514,7 @@
 			)
 		)
 		(property "Value" "4081"
-			(at 86.3517 83.82 0)
+			(at 27.9317 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5544,7 +5522,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 86.36 90.17 0)
+			(at 27.94 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5553,7 +5531,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 86.36 90.17 0)
+			(at 27.94 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5562,7 +5540,7 @@
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
-			(at 86.36 90.17 0)
+			(at 27.94 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5631,7 +5609,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4071")
-		(at 198.12 148.59 0)
+		(at 194.31 115.57 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5640,7 +5618,7 @@
 		(fields_autoplaced yes)
 		(uuid "ce0e196f-dc65-445a-8261-3bd23447e869")
 		(property "Reference" "U4"
-			(at 198.12 139.7 0)
+			(at 194.31 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5648,7 +5626,7 @@
 			)
 		)
 		(property "Value" "4071"
-			(at 198.12 142.24 0)
+			(at 194.31 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5656,7 +5634,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 198.12 148.59 0)
+			(at 194.31 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5665,7 +5643,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 198.12 148.59 0)
+			(at 194.31 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5674,7 +5652,7 @@
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
-			(at 198.12 148.59 0)
+			(at 194.31 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5743,7 +5721,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4069")
-		(at 153.67 144.78 0)
+		(at 194.31 40.64 0)
 		(unit 7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5752,7 +5730,7 @@
 		(fields_autoplaced yes)
 		(uuid "d24d9923-0223-4084-8abf-148b252514df")
 		(property "Reference" "U3"
-			(at 160.02 143.5099 0)
+			(at 200.66 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5761,7 +5739,7 @@
 			)
 		)
 		(property "Value" "4069"
-			(at 160.02 146.0499 0)
+			(at 200.66 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5770,7 +5748,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 153.67 144.78 0)
+			(at 194.31 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5779,7 +5757,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 153.67 144.78 0)
+			(at 194.31 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5788,7 +5766,7 @@
 			)
 		)
 		(property "Description" "Hex inverter"
-			(at 153.67 144.78 0)
+			(at 194.31 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5971,7 +5949,7 @@
 	)
 	(symbol
 		(lib_id "4xxx:4081")
-		(at 86.36 106.68 0)
+		(at 86.36 73.66 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5980,7 +5958,7 @@
 		(fields_autoplaced yes)
 		(uuid "dea92bb1-919a-45cb-9187-43b9a8869478")
 		(property "Reference" "U1"
-			(at 86.3517 97.79 0)
+			(at 86.3517 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5988,7 +5966,7 @@
 			)
 		)
 		(property "Value" "4081"
-			(at 86.3517 100.33 0)
+			(at 86.3517 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5996,7 +5974,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 86.36 106.68 0)
+			(at 86.36 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6005,7 +5983,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 86.36 106.68 0)
+			(at 86.36 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6014,7 +5992,7 @@
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
-			(at 86.36 106.68 0)
+			(at 86.36 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)

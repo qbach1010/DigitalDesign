@@ -2544,6 +2544,12 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 74.93 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ffc0ec8a-f27b-4a22-9270-bb60e3d85eda")
+	)
 	(wire
 		(pts
 			(xy 137.16 87.63) (xy 125.73 87.63)
@@ -2776,7 +2782,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 142.24) (xy 66.04 142.24)
+			(xy 77.47 142.24) (xy 74.93 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2813,6 +2819,16 @@
 			(type default)
 		)
 		(uuid "879d49f4-9749-4f95-b194-462ad6e605bb")
+	)
+	(wire
+		(pts
+			(xy 74.93 156.21) (xy 92.71 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8837041c-935f-48b4-b0d5-9f15c5a65a68")
 	)
 	(wire
 		(pts
@@ -2946,6 +2962,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 142.24) (xy 66.04 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8e295d4-efef-4318-9c12-aeb8d7c21c06")
+	)
+	(wire
+		(pts
 			(xy 74.93 71.12) (xy 78.74 71.12)
 		)
 		(stroke
@@ -2953,6 +2979,16 @@
 			(type default)
 		)
 		(uuid "e57c62db-01ce-4d8c-bda2-d2a5a48a6671")
+	)
+	(wire
+		(pts
+			(xy 74.93 142.24) (xy 74.93 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2cc2d9b-a4a1-42e4-b102-84fd36a86545")
 	)
 	(wire
 		(pts
@@ -3494,6 +3530,17 @@
 			(justify right)
 		)
 		(uuid "d43bd51d-1b59-43a5-8b51-2f713cb8f17f")
+	)
+	(hierarchical_label "xor_out"
+		(shape output)
+		(at 92.71 156.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "efba7b67-1431-40e3-9cba-e993440a99e2")
 	)
 	(hierarchical_label "VCC"
 		(shape passive)

@@ -5134,6 +5134,98 @@
 		)
 	)
 	(sheet
+		(at 78.74 138.43)
+		(size 38.1 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6b755f33-010e-4b1b-a5fd-e02d322a419a")
+		(property "Sheetname" "Signed_Extended"
+			(at 78.74 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Signed_Extended.kicad_sch"
+			(at 78.74 182.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A2" input
+			(at 78.74 144.78 180)
+			(uuid "3d363a8b-6ad2-40cf-9280-53f31362884f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "B2" input
+			(at 78.74 149.86 180)
+			(uuid "73b24338-3284-4588-b649-b8e1070302cc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "c" input
+			(at 78.74 156.21 180)
+			(uuid "ea1453c9-f45f-48d8-9188-d9ff02c668a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "S2" input
+			(at 78.74 162.56 180)
+			(uuid "55a818b7-1b36-47b7-9cda-96c48fdf6dc3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "signed" output
+			(at 116.84 157.48 0)
+			(uuid "86cd4454-d28f-431c-b701-4da461df6c55")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DTS"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 129.54 52.07)
 		(size 30.48 16.51)
 		(exclude_from_sim no)

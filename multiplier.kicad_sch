@@ -1621,6 +1621,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 100.33) (xy 190.5 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5571a356-52a6-475c-9749-ed892b9880c8")
+	)
+	(wire
+		(pts
 			(xy 111.76 99.06) (xy 120.65 99.06)
 		)
 		(stroke
@@ -2059,6 +2069,16 @@
 		)
 		(uuid "90e56e6d-646c-4654-8c3a-68cd43ab01e1")
 	)
+	(label "cout3"
+		(at 190.5 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "916251e5-cc3c-42ea-a850-419bd112cd99")
+	)
 	(label "cout6"
 		(at 140.97 129.54 0)
 		(effects
@@ -2251,28 +2271,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VCC"
-		(shape input)
-		(at 199.39 100.33 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "30172843-60f8-46ee-a173-e2f6df16a6d7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 192.7762 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)

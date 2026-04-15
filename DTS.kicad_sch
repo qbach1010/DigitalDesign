@@ -7215,7 +7215,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "multiplexer_6b.kicad_sch"
+		(property "Sheetfile" "mux6b1.kicad_sch"
 			(at 205.74 142.8246 0)
 			(effects
 				(font
@@ -7721,7 +7721,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "FullAdder.kicad_sch"
+		(property "Sheetfile" "fa2.kicad_sch"
 			(at 130.81 72.9746 0)
 			(effects
 				(font
@@ -7843,7 +7843,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "FullAdder.kicad_sch"
+		(property "Sheetfile" "fa1.kicad_sch"
 			(at 130.81 45.0346 0)
 			(effects
 				(font
@@ -7965,7 +7965,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "FullAdder.kicad_sch"
+		(property "Sheetfile" "fa3.kicad_sch"
 			(at 130.81 99.6446 0)
 			(effects
 				(font
@@ -8087,7 +8087,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "multiplexer_6b.kicad_sch"
+		(property "Sheetfile" "mux6b2.kicad_sch"
 			(at 248.92 109.8046 0)
 			(effects
 				(font
@@ -8339,7 +8339,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "multiplexer_3b.kicad_sch"
+		(property "Sheetfile" "mux3b.kicad_sch"
 			(at 63.5 89.4846 0)
 			(effects
 				(font

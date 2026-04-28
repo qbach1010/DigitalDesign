@@ -2401,16 +2401,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 99.06) (xy 40.64 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "072d0fc1-398c-4547-a767-3a0528365ba3")
-	)
-	(wire
-		(pts
 			(xy 73.66 93.98) (xy 77.47 93.98)
 		)
 		(stroke
@@ -2418,26 +2408,6 @@
 			(type default)
 		)
 		(uuid "09601a0c-6995-4c9d-b346-458d004cff4e")
-	)
-	(wire
-		(pts
-			(xy 194.31 24.13) (xy 194.31 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09e81c50-0087-4cca-8a31-d139f528fbb3")
-	)
-	(wire
-		(pts
-			(xy 171.45 24.13) (xy 171.45 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c1b3ba6-6dfc-444d-ba7f-e5ee8cdec199")
 	)
 	(wire
 		(pts
@@ -2468,16 +2438,6 @@
 			(type default)
 		)
 		(uuid "2ba2f23a-c5f6-47e4-ad32-4829b152aaf3")
-	)
-	(wire
-		(pts
-			(xy 115.57 24.13) (xy 115.57 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33d90ad8-6073-4769-8aba-58f93c9f12a8")
 	)
 	(wire
 		(pts
@@ -2548,16 +2508,6 @@
 			(type default)
 		)
 		(uuid "5be5a695-fa9b-43af-8762-03a7c16a1194")
-	)
-	(wire
-		(pts
-			(xy 217.17 24.13) (xy 217.17 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bf37a17-4530-419c-82bc-78ff583d80fc")
 	)
 	(wire
 		(pts
@@ -2681,16 +2631,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 115.57) (xy 40.64 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a67601d5-ed8b-49cd-95ff-d84e4da716ff")
-	)
-	(wire
-		(pts
 			(xy 152.4 90.17) (xy 157.48 90.17)
 		)
 		(stroke
@@ -2721,16 +2661,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 53.34) (xy 115.57 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2d8a04e-692f-44a5-95d9-1bfcd55d595a")
-	)
-	(wire
-		(pts
 			(xy 73.66 109.22) (xy 77.47 109.22)
 		)
 		(stroke
@@ -2748,16 +2678,6 @@
 			(type default)
 		)
 		(uuid "d431585d-d0e4-4e6e-b73c-69fd0a11a43a")
-	)
-	(wire
-		(pts
-			(xy 194.31 53.34) (xy 194.31 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4abcba0-da87-4f8e-ba65-4812d8f4bbe3")
 	)
 	(wire
 		(pts
@@ -2831,26 +2751,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 53.34) (xy 217.17 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fad0dcc9-bd05-4ff6-b961-c17b2872af87")
-	)
-	(wire
-		(pts
-			(xy 171.45 53.34) (xy 171.45 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbf75795-c65b-4a12-a600-3a6cdd1f1451")
-	)
-	(wire
-		(pts
 			(xy 73.66 125.73) (xy 77.47 125.73)
 		)
 		(stroke
@@ -2860,186 +2760,6 @@
 		(uuid "fcb43ccc-438c-43c5-a8ff-0dfa080ceb51")
 	)
 	(label "xy'"
-		(at 99.06 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0459f08d-9eab-4106-84b4-19de5bcd9b20")
-	)
-	(label "(xy' + x'y)'"
-		(at 125.73 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0d078ac7-41af-4f6c-b8ca-c4db43423c1c")
-	)
-	(label "xy' + x'y"
-		(at 205.74 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1dd48065-d9f0-45cb-8527-aad16fa53a1a")
-	)
-	(label "xy"
-		(at 181.61 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "24c92ec9-5bb8-420a-9eaf-6062b4399f56")
-	)
-	(label "y'"
-		(at 96.52 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "46544805-62e5-4fb7-8ffe-37ad4648b6a3")
-	)
-	(label "xy' + x'y"
-		(at 127 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4aae862e-d094-454b-b9cb-eb25c63d775c")
-	)
-	(label "c_in'"
-		(at 133.35 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "53eb7a72-3d57-492d-b0c3-add0b15cd59e")
-	)
-	(label "xy'"
-		(at 181.61 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5bf38a76-48de-42e9-81dd-f89bb4949fe5")
-	)
-	(label "temp3"
-		(at 157.48 106.68 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "60035ada-4b28-44c8-8538-0cb2392f8686")
-	)
-	(label "temp1"
-		(at 157.48 73.66 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66fa3871-5a05-47e1-b9aa-f70eeff3a21d")
-	)
-	(label "x'"
-		(at 96.52 93.98 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "674cc461-f02d-4d8a-8236-4d4d4cb2856d")
-	)
-	(label "xy' + x'y"
-		(at 66.04 142.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6e4fe739-279f-4eda-bc0e-5343282bc728")
-	)
-	(label "(xy' + x'y)'"
-		(at 96.52 142.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7cf6d475-5d5b-4b90-a0fe-7a30acbbedd9")
-	)
-	(label "xy"
-		(at 99.06 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8943961b-626a-423a-adab-fc6ae5fb16b9")
-	)
-	(label "temp3"
-		(at 181.61 118.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "91a7adf3-79fb-4468-932a-486ca163ca89")
-	)
-	(label "y'"
-		(at 74.93 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "95110fa0-9c30-41f1-b814-e646f93a3684")
-	)
-	(label "temp2"
-		(at 180.34 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ead1b0f-61fd-4191-910b-9fa25710bbb0")
-	)
-	(label "c_in'"
-		(at 96.52 125.73 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ab5c053b-746a-4328-a1bd-76a4aab2e48d")
-	)
-	(label "xy'"
 		(at 157.48 57.15 0)
 		(effects
 			(font
@@ -3047,17 +2767,17 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "acad5de9-0e22-4551-87f6-5525cd37a6e0")
+		(uuid "03e1a0f9-c3d5-4904-ac71-054cb9d731ae")
 	)
-	(label "x'y"
-		(at 181.61 82.55 0)
+	(label "xy'"
+		(at 99.06 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "bd95c606-888c-47df-b9ee-2514eed6ee85")
+		(uuid "0afe9fcf-39d5-416f-871c-58985f8d39fe")
 	)
 	(label "xy' + x'y"
 		(at 127 71.12 0)
@@ -3067,7 +2787,57 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "c0f29672-c1d8-4e1c-8b7c-437955802520")
+		(uuid "121e19a5-d07f-4770-ae06-3bffbef65981")
+	)
+	(label "(xy' + x'y)'"
+		(at 125.73 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "17a459ef-a747-4c6c-8887-750475a603f9")
+	)
+	(label "temp1"
+		(at 157.48 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1b60c004-b5a0-4d68-b102-15bed9247c7f")
+	)
+	(label "xy' + x'y"
+		(at 66.04 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1e099d27-9f71-430e-a7b8-33ca65d852f8")
+	)
+	(label "x'y"
+		(at 181.61 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "243da254-d118-40e7-a346-b569dc30e369")
+	)
+	(label "xy' + x'y"
+		(at 205.74 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "26a7cf51-6ea8-4f2b-80e2-b2e459e5e5d5")
 	)
 	(label "temp1"
 		(at 180.34 93.98 0)
@@ -3077,7 +2847,97 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "c4e1d6c5-9989-43a0-9a9d-80dd92cff770")
+		(uuid "2d459765-f0b3-47f7-a32f-f618e15c3ef6")
+	)
+	(label "xy"
+		(at 181.61 113.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e2ba652-65ba-4068-9aa3-1a60b4e2eb5f")
+	)
+	(label "c_in'"
+		(at 96.52 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "31013fdc-12d4-4eeb-8934-3560803b159f")
+	)
+	(label "temp2"
+		(at 180.34 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3ce051d5-27d2-4208-9bba-294c37e26792")
+	)
+	(label "(xy' + x'y)'"
+		(at 96.52 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "432c1c4e-3f7e-4a6f-a4df-150eb3c1a00e")
+	)
+	(label "temp3"
+		(at 157.48 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "458e3006-0375-4e5b-83e9-4e2b139402e5")
+	)
+	(label "xy"
+		(at 99.06 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "51d785cb-b2f5-4e87-a88f-8525beefe904")
+	)
+	(label "y'"
+		(at 96.52 109.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5650c4f9-9c11-4338-b3b2-a54677be8dfa")
+	)
+	(label "xy' + x'y"
+		(at 127 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "71a41bde-6149-4293-880a-067dd18e4a4a")
+	)
+	(label "xy'"
+		(at 181.61 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7391f380-db72-44ff-84d0-d92aa4a85dad")
 	)
 	(label "temp2"
 		(at 157.48 90.17 0)
@@ -3087,7 +2947,17 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "c5fd5703-ff09-463d-8b72-b7fe21a5720e")
+		(uuid "814372c4-bc22-4675-8868-6937652cca6f")
+	)
+	(label "temp3"
+		(at 181.61 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "89754627-babb-45e2-abd1-2c8c8cf60c9b")
 	)
 	(label "x'"
 		(at 133.35 59.69 0)
@@ -3097,51 +2967,37 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "cd51bb33-c874-4dd2-8f17-433edaf044de")
+		(uuid "8b936a29-18cb-4379-8ce0-0db7c08455ef")
 	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 115.57 57.15 270)
+	(label "y'"
+		(at 74.93 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "00d0b6fe-2b6a-44a6-9a6f-17d1fe8184dc")
+		(uuid "a91c9773-5580-4eb7-95b2-309f0169c3e0")
 	)
-	(hierarchical_label "VCC"
-		(shape passive)
-		(at 115.57 24.13 90)
+	(label "x'"
+		(at 96.52 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify left bottom)
 		)
-		(uuid "00eb48dd-3695-4271-bb28-a91f477674ae")
+		(uuid "baac1783-fd5d-44c3-924d-e632ba63b8c5")
 	)
-	(hierarchical_label "y"
-		(shape input)
-		(at 133.35 54.61 180)
+	(label "c_in'"
+		(at 133.35 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "09cc5e86-52af-477b-bad2-0cd5197ce20c")
-	)
-	(hierarchical_label "x"
-		(shape input)
-		(at 74.93 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0bd60ccd-afa8-4d63-af75-af6020313ae1")
+		(uuid "e5041586-a80f-4aa5-aacd-9140ee1753ba")
 	)
 	(hierarchical_label "c_in"
 		(shape input)
@@ -3152,40 +3008,7 @@
 			)
 			(justify right)
 		)
-		(uuid "116e2a34-f7fd-41c2-a8b1-f902f870fbad")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 194.31 57.15 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2985e640-68e8-4c9b-bcbe-300d8f3049d2")
-	)
-	(hierarchical_label "y"
-		(shape input)
-		(at 73.66 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2fca810d-981e-4cd5-a9cb-bffa6ce17f03")
-	)
-	(hierarchical_label "VCC"
-		(shape passive)
-		(at 171.45 24.13 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "36b32f70-4fd5-44a8-92ea-608cd6559667")
+		(uuid "3685e02e-3d96-406d-9cd6-bd0817b276ad")
 	)
 	(hierarchical_label "y"
 		(shape input)
@@ -3196,73 +3019,7 @@
 			)
 			(justify right)
 		)
-		(uuid "3dfa7f33-71d3-4e70-b643-906aba0bbca8")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 171.45 57.15 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "461211fd-4bd7-4124-a8fd-40c885b7bd91")
-	)
-	(hierarchical_label "c_out"
-		(shape output)
-		(at 205.74 115.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5a57aea3-7063-45a3-a6a4-0ccf0e5c4d17")
-	)
-	(hierarchical_label "VCC"
-		(shape passive)
-		(at 194.31 24.13 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "68f22e34-985f-4e87-9608-62cc968e6d8b")
-	)
-	(hierarchical_label "x"
-		(shape input)
-		(at 74.93 71.12 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "72c32c3b-af9b-4301-9c52-1e50ab197294")
-	)
-	(hierarchical_label "GND"
-		(shape passive)
-		(at 217.17 57.15 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "83dd3d17-76cf-4a30-a9ec-f5ef4d8ff9c5")
-	)
-	(hierarchical_label "x"
-		(shape input)
-		(at 73.66 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "844d345c-822b-4d9b-8d80-beefcfec7bb7")
+		(uuid "42531ff2-def4-4a70-9de8-7fef65baf6ef")
 	)
 	(hierarchical_label "c_in"
 		(shape input)
@@ -3273,7 +3030,29 @@
 			)
 			(justify right)
 		)
-		(uuid "8987236e-ace2-43bb-899d-803fda00bb75")
+		(uuid "55cca982-fde3-46db-8dfb-59f29d1c7ad3")
+	)
+	(hierarchical_label "y"
+		(shape input)
+		(at 73.66 109.22 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "641ac6dd-9ee3-4101-8a8e-a68022a95b04")
+	)
+	(hierarchical_label "x"
+		(shape input)
+		(at 74.93 71.12 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96bb2aac-f483-44b0-bd1c-3cce226419b8")
 	)
 	(hierarchical_label "sum"
 		(shape output)
@@ -3284,7 +3063,7 @@
 			)
 			(justify left)
 		)
-		(uuid "a525404b-54a6-49ee-96f2-ab90b398047f")
+		(uuid "a95b4409-6b49-4515-bd5a-ca436a38eb9b")
 	)
 	(hierarchical_label "c_in"
 		(shape input)
@@ -3295,7 +3074,51 @@
 			)
 			(justify right)
 		)
-		(uuid "d43bd51d-1b59-43a5-8b51-2f713cb8f17f")
+		(uuid "b2802c74-dd00-4cd4-913d-a0c402c1d624")
+	)
+	(hierarchical_label "x"
+		(shape input)
+		(at 74.93 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c6b0f3ae-1e73-401f-b456-90933a461e3a")
+	)
+	(hierarchical_label "c_out"
+		(shape output)
+		(at 205.74 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c6f47f86-8db5-4763-8c96-23a6d61ea80a")
+	)
+	(hierarchical_label "y"
+		(shape input)
+		(at 133.35 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d47ecc61-7878-48f4-a233-6959c7c87e2d")
+	)
+	(hierarchical_label "x"
+		(shape input)
+		(at 73.66 93.98 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e1c91202-bef7-4f66-b169-79daa855aab4")
 	)
 	(hierarchical_label "xor_out"
 		(shape output)
@@ -3306,203 +3129,20 @@
 			)
 			(justify left)
 		)
-		(uuid "efba7b67-1431-40e3-9cba-e993440a99e2")
-	)
-	(hierarchical_label "VCC"
-		(shape passive)
-		(at 217.17 24.13 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f0f37262-1a62-408d-be89-b3c32c89c96b")
-	)
-	(symbol
-		(lib_id "4xxx:4069")
-		(at 85.09 142.24 0)
-		(unit 6)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "090ba51d-31ec-4ec9-a63a-b62bf15daeb8")
-		(property "Reference" "U52"
-			(at 85.09 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4069"
-			(at 85.09 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 85.09 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 85.09 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Hex inverter"
-			(at 85.09 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 85.09 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt CD4069 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 SUBCKT"
-			(at 85.09 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4069"
-			(at 85.09 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 85.09 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "50e8bb25-cc60-4734-a170-10c53e488430")
-		)
-		(pin "13"
-			(uuid "14e25048-1ac6-4b00-a29d-2a35a045e4bb")
-		)
-		(pin "3"
-			(uuid "6ffd9580-80bc-4019-bc19-b24a0ac1b5b4")
-		)
-		(pin "5"
-			(uuid "2c040c35-cbad-4279-8fe6-dd03d9ce7751")
-		)
-		(pin "1"
-			(uuid "40dc01e4-2ed3-4f93-b74a-7250a58aee8c")
-		)
-		(pin "8"
-			(uuid "55c14c5e-bc06-48b7-9e34-a4dbbe048b3a")
-		)
-		(pin "12"
-			(uuid "cca68b6c-eb74-4f1f-b868-1a213dca562d")
-		)
-		(pin "10"
-			(uuid "4973b22f-0dd8-4a07-89ba-ca1468cdf3da")
-		)
-		(pin "6"
-			(uuid "c3978360-6ab8-4397-bdd2-718efb0be5df")
-		)
-		(pin "9"
-			(uuid "ed29b988-8965-4d5f-be2c-75dc9c9bb450")
-		)
-		(pin "7"
-			(uuid "d461302d-0f4b-4baf-aed0-68f11445bc8d")
-		)
-		(pin "14"
-			(uuid "115405a8-423d-4ae4-a1e3-af1cfe5f3ebd")
-		)
-		(pin "11"
-			(uuid "12e73c37-2340-4bda-abc9-a8b50b208ef6")
-		)
-		(pin "2"
-			(uuid "78d63677-9e1e-4f09-ba20-d9d8ff3eefe5")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U8")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U4")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U12")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U56")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U40")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U36")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U52")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U44")
-					(unit 6)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U48")
-					(unit 6)
-				)
-			)
-		)
+		(uuid "e52b3f00-bc26-49dd-98ff-117aa88151f3")
 	)
 	(symbol
 		(lib_id "4xxx:4071")
-		(at 27.94 161.29 0)
-		(unit 1)
+		(at 194.31 115.57 0)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "0fa79352-6a65-43a2-8e2a-ce142fde45ef")
-		(property "Reference" "U53"
-			(at 27.94 152.4 0)
+		(uuid "02f5e964-5f67-4cf0-99ff-b69e5d7b542c")
+		(property "Reference" "U43"
+			(at 194.31 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3510,7 +3150,7 @@
 			)
 		)
 		(property "Value" "4071"
-			(at 27.94 154.94 0)
+			(at 194.31 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3518,7 +3158,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 27.94 161.29 0)
+			(at 194.31 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3527,7 +3167,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 27.94 161.29 0)
+			(at 194.31 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3536,1165 +3176,61 @@
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
-			(at 27.94 161.29 0)
+			(at 194.31 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 27.94 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 27.94 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4071"
-			(at 27.94 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 27.94 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "83352b27-745e-48f6-9cd7-5d7a8e1ffabc")
-		)
-		(pin "12"
-			(uuid "a40c337d-de3c-44cb-8177-563ca6fb9c55")
-		)
-		(pin "13"
-			(uuid "6213b6cf-9f5d-4553-b3e1-a9ac38fcd384")
-		)
-		(pin "5"
-			(uuid "7f92e76b-5409-46ff-afc2-62b600e24b7d")
-		)
-		(pin "1"
-			(uuid "c1fad2a6-62fb-4781-bff9-baa61f175614")
-		)
-		(pin "4"
-			(uuid "aad41181-0cc9-4305-acde-8161162a7a07")
-		)
-		(pin "7"
-			(uuid "2b6a128e-2341-4bac-9ccf-ae5fa337642b")
 		)
 		(pin "9"
-			(uuid "a1991b63-620d-4b95-933c-52a562f74c19")
-		)
-		(pin "6"
-			(uuid "84e6adb8-47b3-41a7-a15e-b759a1972ccc")
-		)
-		(pin "14"
-			(uuid "21f24013-1ea4-4256-9adb-da16069bce4d")
-		)
-		(pin "3"
-			(uuid "66c34a01-fce9-4748-8295-6b5965e30a85")
-		)
-		(pin "10"
-			(uuid "9e31121a-08a1-40e2-9138-d08015925f49")
+			(uuid "6613bfca-8aa3-42c4-8018-334847f415da")
 		)
 		(pin "2"
-			(uuid "bd807fbb-c328-4a63-b1e6-461a877287ef")
+			(uuid "a07dc8d7-ef07-44c9-a88a-6bee36283bf1")
+		)
+		(pin "10"
+			(uuid "c23a62b2-73a8-4db4-8fc7-396331490e6a")
+		)
+		(pin "14"
+			(uuid "b788a6b4-8da0-4ab7-ad7a-e19d2e74678d")
+		)
+		(pin "6"
+			(uuid "17865aec-6c6f-4d47-924c-2fbd4bc5396b")
+		)
+		(pin "7"
+			(uuid "abd826c2-be19-40f9-9405-aa916f2a8c11")
+		)
+		(pin "5"
+			(uuid "7a82254f-0b8c-42a9-9482-71c08e27aad2")
+		)
+		(pin "11"
+			(uuid "08af8ada-c932-4a25-a30f-6894430ea2bf")
+		)
+		(pin "4"
+			(uuid "5b28ecf0-8321-4b5d-9cb6-d18a30f06ca0")
+		)
+		(pin "3"
+			(uuid "24b87d8d-3b06-45cb-95be-9b6b81ec9851")
+		)
+		(pin "13"
+			(uuid "a8b2fcc4-6423-4fd9-9191-1469def19dd1")
+		)
+		(pin "12"
+			(uuid "3a24d6b6-77f5-4f92-b446-9eedd110458a")
 		)
 		(pin "8"
-			(uuid "bee192ad-fda6-45a8-a0af-52e19ecb430e")
+			(uuid "4691e73c-1c9e-492e-a7ae-3ec98e279fca")
+		)
+		(pin "1"
+			(uuid "6a215432-72a6-42ef-a33d-b5655729a43f")
 		)
 		(instances
 			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U9")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U5")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U13")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U57")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U41")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U37")
-					(unit 1)
-				)
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U53")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U45")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4081")
-		(at 144.78 73.66 0)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1aa7681e-8cd3-4bdb-af0a-aba600578b51")
-		(property "Reference" "U54"
-			(at 144.7717 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4081"
-			(at 144.7717 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 144.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 144.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad And 2 inputs"
-			(at 144.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 144.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 144.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 144.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 144.78 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "119a4875-7fdd-4b6e-ac13-88c9e2a9b3f9")
-		)
-		(pin "14"
-			(uuid "447173ed-1ca5-48fd-a2e8-85c9d082f01e")
-		)
-		(pin "5"
-			(uuid "5184662c-9d8e-4dc4-ac23-c4c7acdc8b61")
-		)
-		(pin "10"
-			(uuid "dc1312d1-fa57-4e73-b6af-edc2a539ec21")
-		)
-		(pin "1"
-			(uuid "d83dbdd8-e62b-48c5-bc14-fe14842a7e26")
-		)
-		(pin "7"
-			(uuid "77c0cfa9-98dd-4085-ad7d-43e11816ef00")
-		)
-		(pin "6"
-			(uuid "d52c93c4-00e1-48b7-91e5-a2f3c68f252d")
-		)
-		(pin "12"
-			(uuid "584b5cb6-2044-404b-8c64-ab5fc468ff6d")
-		)
-		(pin "8"
-			(uuid "11cff712-f6a1-49a8-8df5-998048009a43")
-		)
-		(pin "13"
-			(uuid "6ab433ed-043e-42be-a438-3277e3809698")
-		)
-		(pin "11"
-			(uuid "3cae36da-dccf-4215-b63a-97d97163741e")
-		)
-		(pin "2"
-			(uuid "de58df4c-b562-4c1d-bf04-8fd419a852a9")
-		)
-		(pin "9"
-			(uuid "9f1aea97-36ab-4507-96aa-fbbe82843bd3")
-		)
-		(pin "4"
-			(uuid "e19dcce1-33d9-4a86-8cbe-77abaababb6d")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U10")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U6")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U14")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U58")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U42")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U38")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U54")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U46")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U50")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4069")
-		(at 85.09 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1adf060d-5a32-4653-9031-b828075ecb18")
-		(property "Reference" "U52"
-			(at 85.09 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4069"
-			(at 85.09 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Hex inverter"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt CD4069 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 SUBCKT"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4069"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 85.09 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "50e8bb25-cc60-4734-a170-10c53e48842f")
-		)
-		(pin "13"
-			(uuid "416f0397-dba5-465c-b76e-523100922b74")
-		)
-		(pin "3"
-			(uuid "6ffd9580-80bc-4019-bc19-b24a0ac1b5b3")
-		)
-		(pin "5"
-			(uuid "2c040c35-cbad-4279-8fe6-dd03d9ce7750")
-		)
-		(pin "1"
-			(uuid "c60e0046-5ba3-4c8a-bb88-cd5d7344c369")
-		)
-		(pin "8"
-			(uuid "55c14c5e-bc06-48b7-9e34-a4dbbe048b39")
-		)
-		(pin "12"
-			(uuid "c00a1fc1-80ec-49c5-80a8-398f1d94d72c")
-		)
-		(pin "10"
-			(uuid "4973b22f-0dd8-4a07-89ba-ca1468cdf3d9")
-		)
-		(pin "6"
-			(uuid "c3978360-6ab8-4397-bdd2-718efb0be5de")
-		)
-		(pin "9"
-			(uuid "ed29b988-8965-4d5f-be2c-75dc9c9bb44f")
-		)
-		(pin "7"
-			(uuid "d461302d-0f4b-4baf-aed0-68f11445bc8c")
-		)
-		(pin "14"
-			(uuid "115405a8-423d-4ae4-a1e3-af1cfe5f3ebc")
-		)
-		(pin "11"
-			(uuid "12e73c37-2340-4bda-abc9-a8b50b208ef5")
-		)
-		(pin "2"
-			(uuid "07574b2b-90a0-474e-a31b-b850c1484998")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U8")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U4")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U12")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U56")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U40")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U36")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U52")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U44")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4071")
-		(at 217.17 40.64 0)
-		(unit 5)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "21ce3b7b-3410-4169-a389-6b7715260b6f")
-		(property "Reference" "U53"
-			(at 223.52 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4071"
-			(at 223.52 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 217.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 217.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad Or 2 inputs"
-			(at 217.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 217.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 217.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4071"
-			(at 217.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 217.17 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "83352b27-745e-48f6-9cd7-5d7a8e1ffab9")
-		)
-		(pin "12"
-			(uuid "a40c337d-de3c-44cb-8177-563ca6fb9c52")
-		)
-		(pin "13"
-			(uuid "6213b6cf-9f5d-4553-b3e1-a9ac38fcd381")
-		)
-		(pin "5"
-			(uuid "7f92e76b-5409-46ff-afc2-62b600e24b7a")
-		)
-		(pin "1"
-			(uuid "67deb7d5-1e89-470c-ba58-17f4854a9dfc")
-		)
-		(pin "4"
-			(uuid "aad41181-0cc9-4305-acde-8161162a7a04")
-		)
-		(pin "7"
-			(uuid "938887df-0b08-4d9e-b629-87f8a0b4cfb8")
-		)
-		(pin "9"
-			(uuid "a1991b63-620d-4b95-933c-52a562f74c16")
-		)
-		(pin "6"
-			(uuid "84e6adb8-47b3-41a7-a15e-b759a1972cc9")
-		)
-		(pin "14"
-			(uuid "772983c1-0e7e-4113-9353-999538be6178")
-		)
-		(pin "3"
-			(uuid "ef651161-ad47-4c36-9b01-5dac28392c9f")
-		)
-		(pin "10"
-			(uuid "9e31121a-08a1-40e2-9138-d08015925f46")
-		)
-		(pin "2"
-			(uuid "ea1757b1-85c6-4f9d-82b3-6e046d1f1d5a")
-		)
-		(pin "8"
-			(uuid "bee192ad-fda6-45a8-a0af-52e19ecb430b")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U9")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U5")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U13")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U57")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U41")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U37")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U53")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U45")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U49")
-					(unit 5)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4069")
-		(at 27.94 132.08 0)
-		(unit 4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5a7d160a-380e-4894-bfbe-e28febb9e432")
-		(property "Reference" "U52"
-			(at 27.94 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4069"
-			(at 27.94 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 27.94 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 27.94 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Hex inverter"
-			(at 27.94 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 27.94 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt CD4069 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 SUBCKT"
-			(at 27.94 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4069"
-			(at 27.94 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 27.94 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "50e8bb25-cc60-4734-a170-10c53e488432")
-		)
-		(pin "13"
-			(uuid "416f0397-dba5-465c-b76e-523100922b77")
-		)
-		(pin "3"
-			(uuid "6ffd9580-80bc-4019-bc19-b24a0ac1b5b6")
-		)
-		(pin "5"
-			(uuid "2c040c35-cbad-4279-8fe6-dd03d9ce7753")
-		)
-		(pin "1"
-			(uuid "40dc01e4-2ed3-4f93-b74a-7250a58aee8e")
-		)
-		(pin "8"
-			(uuid "a41274b4-0958-451b-a6ff-4c0cac75158b")
-		)
-		(pin "12"
-			(uuid "c00a1fc1-80ec-49c5-80a8-398f1d94d72f")
-		)
-		(pin "10"
-			(uuid "4973b22f-0dd8-4a07-89ba-ca1468cdf3dc")
-		)
-		(pin "6"
-			(uuid "c3978360-6ab8-4397-bdd2-718efb0be5e1")
-		)
-		(pin "9"
-			(uuid "09455fda-0dc9-428d-81dd-7cbbb4f4c98a")
-		)
-		(pin "7"
-			(uuid "d461302d-0f4b-4baf-aed0-68f11445bc8f")
-		)
-		(pin "14"
-			(uuid "115405a8-423d-4ae4-a1e3-af1cfe5f3ebf")
-		)
-		(pin "11"
-			(uuid "12e73c37-2340-4bda-abc9-a8b50b208ef8")
-		)
-		(pin "2"
-			(uuid "78d63677-9e1e-4f09-ba20-d9d8ff3eefe7")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U8")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U4")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U12")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U56")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U40")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U36")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U52")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U44")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U48")
-					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4081")
-		(at 144.78 106.68 0)
-		(unit 4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5ff236d9-d106-4a3b-af90-4ac1dadfc4c4")
-		(property "Reference" "U54"
-			(at 144.7717 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4081"
-			(at 144.7717 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 144.78 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 144.78 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad And 2 inputs"
-			(at 144.78 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 144.78 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 144.78 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 144.78 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 144.78 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "119a4875-7fdd-4b6e-ac13-88c9e2a9b3fb")
-		)
-		(pin "14"
-			(uuid "447173ed-1ca5-48fd-a2e8-85c9d082f020")
-		)
-		(pin "5"
-			(uuid "776f6317-c489-4591-813e-c45a8c10bcae")
-		)
-		(pin "10"
-			(uuid "dc1312d1-fa57-4e73-b6af-edc2a539ec23")
-		)
-		(pin "1"
-			(uuid "d83dbdd8-e62b-48c5-bc14-fe14842a7e28")
-		)
-		(pin "7"
-			(uuid "77c0cfa9-98dd-4085-ad7d-43e11816ef02")
-		)
-		(pin "6"
-			(uuid "e4557f30-1123-46f8-97d8-64cd898e5999")
-		)
-		(pin "12"
-			(uuid "55e722d7-2858-403c-91ca-24c7c7e481a5")
-		)
-		(pin "8"
-			(uuid "11cff712-f6a1-49a8-8df5-998048009a45")
-		)
-		(pin "13"
-			(uuid "03ba6f23-31b5-4178-810c-89c6cf4324b4")
-		)
-		(pin "11"
-			(uuid "57288735-c0c0-48f0-9c50-eabd22b3c0cb")
-		)
-		(pin "2"
-			(uuid "de58df4c-b562-4c1d-bf04-8fd419a852ab")
-		)
-		(pin "9"
-			(uuid "9f1aea97-36ab-4507-96aa-fbbe82843bd5")
-		)
-		(pin "4"
-			(uuid "9407fa55-2961-48f3-8b54-de3d1ab1e0c4")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U10")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U6")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U14")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U58")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U42")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U38")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U54")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U46")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U50")
-					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4081")
-		(at 115.57 40.64 0)
-		(unit 5)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "653afb33-fe54-4602-88be-5dba00b775fb")
-		(property "Reference" "U51"
-			(at 121.92 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4081"
-			(at 121.92 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad And 2 inputs"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 115.57 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "10"
-			(uuid "6d11d166-9704-49c5-a6a2-161958762bc6")
-		)
-		(pin "14"
-			(uuid "9d95e61a-9806-469f-ba14-54194aaee667")
-		)
-		(pin "2"
-			(uuid "cd1c7199-3ac3-4ed1-b5a3-5199392095d1")
-		)
-		(pin "1"
-			(uuid "953de96b-636a-4b49-a362-66b72397f5d1")
-		)
-		(pin "4"
-			(uuid "d4f99f34-5cbb-4679-9046-27ab0a220d4f")
-		)
-		(pin "12"
-			(uuid "94ab659b-13c8-4a08-b2bb-b443f78f2328")
-		)
-		(pin "11"
-			(uuid "46126866-3ba2-4efa-b928-112d2a42db5e")
-		)
-		(pin "7"
-			(uuid "d2d26326-1d03-4209-bdb0-9a2d50194b8c")
-		)
-		(pin "5"
-			(uuid "81eb5c95-1068-4d4a-b452-991e7885d24d")
-		)
-		(pin "3"
-			(uuid "16f587db-e32f-429a-a522-e4115c3a8b67")
-		)
-		(pin "9"
-			(uuid "3fe6e2d3-db10-49d1-84c4-2e8498d8b24b")
-		)
-		(pin "13"
-			(uuid "57b31cfa-1481-474d-a6b1-700be7379a56")
-		)
-		(pin "8"
-			(uuid "97568c7d-d4cd-4678-bdee-efd21a3ef630")
-		)
-		(pin "6"
-			(uuid "41133aca-bc58-4064-b3ee-2807209488bb")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U7")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U3")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U11")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U55")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U39")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U35")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U51")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
 					(reference "U43")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U47")
-					(unit 5)
+					(unit 3)
 				)
 			)
 		)
@@ -4702,14 +3238,14 @@
 	(symbol
 		(lib_id "4xxx:4069")
 		(at 85.09 125.73 0)
-		(unit 3)
+		(unit 6)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6d35e6e0-0fce-4e6f-b1c3-56461bb140ac")
-		(property "Reference" "U52"
+		(uuid "0384385b-91b8-409c-bf54-842b7eff4a61")
+		(property "Reference" "U32"
 			(at 85.09 116.84 0)
 			(effects
 				(font
@@ -4752,809 +3288,53 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "SUBCKT"
-			(at 85.09 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt CD4069 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 SUBCKT"
-			(at 85.09 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4069"
-			(at 85.09 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 85.09 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "50e8bb25-cc60-4734-a170-10c53e488431")
-		)
-		(pin "13"
-			(uuid "416f0397-dba5-465c-b76e-523100922b76")
-		)
-		(pin "3"
-			(uuid "6ffd9580-80bc-4019-bc19-b24a0ac1b5b5")
-		)
-		(pin "5"
-			(uuid "ca0da416-d91d-41d0-9796-3c3eb1ad8d86")
-		)
 		(pin "1"
-			(uuid "40dc01e4-2ed3-4f93-b74a-7250a58aee8d")
-		)
-		(pin "8"
-			(uuid "55c14c5e-bc06-48b7-9e34-a4dbbe048b3b")
-		)
-		(pin "12"
-			(uuid "c00a1fc1-80ec-49c5-80a8-398f1d94d72e")
-		)
-		(pin "10"
-			(uuid "4973b22f-0dd8-4a07-89ba-ca1468cdf3db")
-		)
-		(pin "6"
-			(uuid "0caf1eba-cb83-466a-bf53-f00fb214de84")
-		)
-		(pin "9"
-			(uuid "ed29b988-8965-4d5f-be2c-75dc9c9bb451")
-		)
-		(pin "7"
-			(uuid "d461302d-0f4b-4baf-aed0-68f11445bc8e")
-		)
-		(pin "14"
-			(uuid "115405a8-423d-4ae4-a1e3-af1cfe5f3ebe")
+			(uuid "a0e5f997-abbf-4b13-8334-3349ef26da12")
 		)
 		(pin "11"
-			(uuid "12e73c37-2340-4bda-abc9-a8b50b208ef7")
+			(uuid "aa726899-c842-4e5a-a7ca-336e7ed2dc33")
+		)
+		(pin "13"
+			(uuid "24bd80d5-d998-4fef-bd92-a7f044a5a1bb")
+		)
+		(pin "12"
+			(uuid "02644668-8235-4c9c-bbef-ee9ee2f99d6e")
+		)
+		(pin "14"
+			(uuid "ead831dc-08d6-4a3c-b66c-30d1819b003c")
+		)
+		(pin "10"
+			(uuid "f04410c8-32f5-4e0b-9cdf-e9b86ed99447")
+		)
+		(pin "3"
+			(uuid "8778d823-0a73-4567-8193-1473f1f4f62d")
 		)
 		(pin "2"
-			(uuid "78d63677-9e1e-4f09-ba20-d9d8ff3eefe6")
+			(uuid "cac64fe2-651a-4f1d-9f50-4fba8946160d")
+		)
+		(pin "7"
+			(uuid "6ce69c46-5a2a-4aa4-9caa-cd76e06daafb")
+		)
+		(pin "9"
+			(uuid "3a9cf32a-576c-4315-9f2a-34dffa6fac49")
+		)
+		(pin "5"
+			(uuid "50b6791b-0b54-4940-a5f8-a4cc29eb84cc")
+		)
+		(pin "6"
+			(uuid "9c58ae7b-2e21-42b1-be35-9aab04ae06fe")
+		)
+		(pin "4"
+			(uuid "ffeacae4-f2c8-4d48-be11-6da2d8794eba")
+		)
+		(pin "8"
+			(uuid "0543a902-98d2-46ab-a86b-0796318f96c8")
 		)
 		(instances
 			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U8")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U4")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U12")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U56")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U40")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U36")
-					(unit 3)
-				)
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U52")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U44")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U48")
-					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4081")
-		(at 144.78 57.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7032cfad-3275-406a-8c0f-b78bc8613b7d")
-		(property "Reference" "U54"
-			(at 144.7717 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4081"
-			(at 144.7717 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 144.78 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 144.78 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad And 2 inputs"
-			(at 144.78 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 144.78 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 144.78 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 144.78 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 144.78 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "0836544b-192e-42f5-b37e-73a95978d355")
-		)
-		(pin "14"
-			(uuid "447173ed-1ca5-48fd-a2e8-85c9d082f01f")
-		)
-		(pin "5"
-			(uuid "776f6317-c489-4591-813e-c45a8c10bcad")
-		)
-		(pin "10"
-			(uuid "dc1312d1-fa57-4e73-b6af-edc2a539ec22")
-		)
-		(pin "1"
-			(uuid "be7533e4-e336-467b-aafe-0e59b7c4ed86")
-		)
-		(pin "7"
-			(uuid "77c0cfa9-98dd-4085-ad7d-43e11816ef01")
-		)
-		(pin "6"
-			(uuid "e4557f30-1123-46f8-97d8-64cd898e5998")
-		)
-		(pin "12"
-			(uuid "584b5cb6-2044-404b-8c64-ab5fc468ff6e")
-		)
-		(pin "8"
-			(uuid "11cff712-f6a1-49a8-8df5-998048009a44")
-		)
-		(pin "13"
-			(uuid "6ab433ed-043e-42be-a438-3277e3809699")
-		)
-		(pin "11"
-			(uuid "3cae36da-dccf-4215-b63a-97d97163741f")
-		)
-		(pin "2"
-			(uuid "f895acf6-3fe3-4ab1-9d90-878cf5ad0464")
-		)
-		(pin "9"
-			(uuid "9f1aea97-36ab-4507-96aa-fbbe82843bd4")
-		)
-		(pin "4"
-			(uuid "9407fa55-2961-48f3-8b54-de3d1ab1e0c3")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U10")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U6")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U14")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U58")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U42")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U38")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U54")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U46")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U50")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4081")
-		(at 86.36 57.15 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d2c4f07-6b94-4031-9d61-06eb8379fe12")
-		(property "Reference" "U51"
-			(at 86.3517 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4081"
-			(at 86.3517 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 86.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 86.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad And 2 inputs"
-			(at 86.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 86.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 86.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 86.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 86.36 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "10"
-			(uuid "6d11d166-9704-49c5-a6a2-161958762bc7")
-		)
-		(pin "14"
-			(uuid "79c830b9-d1f8-4175-a55e-fd3efa39c977")
-		)
-		(pin "2"
-			(uuid "02f95432-cdad-47d9-91db-ab925961709c")
-		)
-		(pin "1"
-			(uuid "c9725e78-d6d7-419e-aed0-3ea021528a69")
-		)
-		(pin "4"
-			(uuid "d4f99f34-5cbb-4679-9046-27ab0a220d50")
-		)
-		(pin "12"
-			(uuid "94ab659b-13c8-4a08-b2bb-b443f78f2329")
-		)
-		(pin "11"
-			(uuid "46126866-3ba2-4efa-b928-112d2a42db5f")
-		)
-		(pin "7"
-			(uuid "0434485e-9dbe-4255-b675-f32e8ea4d896")
-		)
-		(pin "5"
-			(uuid "81eb5c95-1068-4d4a-b452-991e7885d24e")
-		)
-		(pin "3"
-			(uuid "047f3d2d-2686-4072-a36d-504fc9ad335d")
-		)
-		(pin "9"
-			(uuid "3fe6e2d3-db10-49d1-84c4-2e8498d8b24c")
-		)
-		(pin "13"
-			(uuid "57b31cfa-1481-474d-a6b1-700be7379a57")
-		)
-		(pin "8"
-			(uuid "97568c7d-d4cd-4678-bdee-efd21a3ef631")
-		)
-		(pin "6"
-			(uuid "41133aca-bc58-4064-b3ee-2807209488bc")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U7")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U3")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U11")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U55")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U39")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U35")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U51")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U43")
-					(unit 1)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U47")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4071")
-		(at 194.31 80.01 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "96e2415b-52d0-464b-8a37-65865ab09b59")
-		(property "Reference" "U53"
-			(at 194.31 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4071"
-			(at 194.31 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 194.31 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 194.31 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad Or 2 inputs"
-			(at 194.31 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 194.31 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 194.31 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4071"
-			(at 194.31 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 194.31 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "83352b27-745e-48f6-9cd7-5d7a8e1ffabd")
-		)
-		(pin "12"
-			(uuid "a40c337d-de3c-44cb-8177-563ca6fb9c56")
-		)
-		(pin "13"
-			(uuid "6213b6cf-9f5d-4553-b3e1-a9ac38fcd385")
-		)
-		(pin "5"
-			(uuid "7f92e76b-5409-46ff-afc2-62b600e24b7e")
-		)
-		(pin "1"
-			(uuid "67deb7d5-1e89-470c-ba58-17f4854a9e00")
-		)
-		(pin "4"
-			(uuid "aad41181-0cc9-4305-acde-8161162a7a08")
-		)
-		(pin "7"
-			(uuid "2b6a128e-2341-4bac-9ccf-ae5fa337642c")
-		)
-		(pin "9"
-			(uuid "0d9e67e7-256c-4ac9-a361-4725944eda74")
-		)
-		(pin "6"
-			(uuid "84e6adb8-47b3-41a7-a15e-b759a1972ccd")
-		)
-		(pin "14"
-			(uuid "21f24013-1ea4-4256-9adb-da16069bce4e")
-		)
-		(pin "3"
-			(uuid "ef651161-ad47-4c36-9b01-5dac28392ca3")
-		)
-		(pin "10"
-			(uuid "5a4b550c-face-4fb9-8ddd-4ce9ed297ee6")
-		)
-		(pin "2"
-			(uuid "ea1757b1-85c6-4f9d-82b3-6e046d1f1d5e")
-		)
-		(pin "8"
-			(uuid "068c10d5-cd7a-49a4-a51e-2b9f60c974e9")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U9")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U5")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U13")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U57")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U41")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U37")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U53")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U45")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U49")
-					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4069")
-		(at 27.94 147.32 0)
-		(unit 5)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "97358d91-ec2d-4ca8-9074-5b26a39098ee")
-		(property "Reference" "U52"
-			(at 27.94 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4069"
-			(at 27.94 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 27.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 27.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Hex inverter"
-			(at 27.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 27.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt CD4069 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 SUBCKT"
-			(at 27.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4069"
-			(at 27.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 27.94 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "50e8bb25-cc60-4734-a170-10c53e488435")
-		)
-		(pin "13"
-			(uuid "416f0397-dba5-465c-b76e-523100922b7a")
-		)
-		(pin "3"
-			(uuid "6ffd9580-80bc-4019-bc19-b24a0ac1b5b9")
-		)
-		(pin "5"
-			(uuid "2c040c35-cbad-4279-8fe6-dd03d9ce7756")
-		)
-		(pin "1"
-			(uuid "40dc01e4-2ed3-4f93-b74a-7250a58aee91")
-		)
-		(pin "8"
-			(uuid "55c14c5e-bc06-48b7-9e34-a4dbbe048b3f")
-		)
-		(pin "12"
-			(uuid "c00a1fc1-80ec-49c5-80a8-398f1d94d732")
-		)
-		(pin "10"
-			(uuid "7da65c0d-d802-4ed0-97ba-21c22a116235")
-		)
-		(pin "6"
-			(uuid "c3978360-6ab8-4397-bdd2-718efb0be5e4")
-		)
-		(pin "9"
-			(uuid "ed29b988-8965-4d5f-be2c-75dc9c9bb455")
-		)
-		(pin "7"
-			(uuid "d461302d-0f4b-4baf-aed0-68f11445bc92")
-		)
-		(pin "14"
-			(uuid "115405a8-423d-4ae4-a1e3-af1cfe5f3ec2")
-		)
-		(pin "11"
-			(uuid "56ed4fec-dde3-432a-9b22-bb63aa3d501f")
-		)
-		(pin "2"
-			(uuid "78d63677-9e1e-4f09-ba20-d9d8ff3eefea")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U8")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U4")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U12")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U56")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U40")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U36")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U52")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U44")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U48")
-					(unit 5)
+					(reference "U32")
+					(unit 6)
 				)
 			)
 		)
@@ -5562,14 +3342,14 @@
 	(symbol
 		(lib_id "4xxx:4069")
 		(at 85.09 109.22 0)
-		(unit 2)
+		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9bd6c8d6-2139-4961-9415-9f24a87e9cfc")
-		(property "Reference" "U52"
+		(uuid "0ae98e5e-648c-481d-b987-89426f3dfe7e")
+		(property "Reference" "U32"
 			(at 85.09 100.33 0)
 			(effects
 				(font
@@ -5612,8 +3392,85 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "SUBCKT"
-			(at 85.09 109.22 0)
+		(pin "1"
+			(uuid "a0e5f997-abbf-4b13-8334-3349ef26da10")
+		)
+		(pin "11"
+			(uuid "e4d8f330-733b-40b1-b1b6-94f415ce6bf2")
+		)
+		(pin "13"
+			(uuid "2cfa35aa-00dd-48fd-a368-69ceab5f31ab")
+		)
+		(pin "12"
+			(uuid "cc6ea3d9-d918-408d-830b-4f0b3d0cbf7c")
+		)
+		(pin "14"
+			(uuid "ead831dc-08d6-4a3c-b66c-30d1819b003a")
+		)
+		(pin "10"
+			(uuid "3c717949-74d5-46ae-a13c-ad2b80d6b288")
+		)
+		(pin "3"
+			(uuid "8778d823-0a73-4567-8193-1473f1f4f62b")
+		)
+		(pin "2"
+			(uuid "cac64fe2-651a-4f1d-9f50-4fba8946160b")
+		)
+		(pin "7"
+			(uuid "6ce69c46-5a2a-4aa4-9caa-cd76e06daaf9")
+		)
+		(pin "9"
+			(uuid "3a9cf32a-576c-4315-9f2a-34dffa6fac47")
+		)
+		(pin "5"
+			(uuid "50b6791b-0b54-4940-a5f8-a4cc29eb84ca")
+		)
+		(pin "6"
+			(uuid "9c58ae7b-2e21-42b1-be35-9aab04ae06fc")
+		)
+		(pin "4"
+			(uuid "ffeacae4-f2c8-4d48-be11-6da2d8794eb8")
+		)
+		(pin "8"
+			(uuid "0543a902-98d2-46ab-a86b-0796318f96c6")
+		)
+		(instances
+			(project "DTS"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
+					(reference "U32")
+					(unit 5)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:4081")
+		(at 86.36 57.15 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "32dd406f-3afa-4d8e-ba24-4f8bc673b9af")
+		(property "Reference" "U39"
+			(at 86.3517 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4081"
+			(at 86.3517 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
+			(at 86.36 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5621,8 +3478,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt CD4069 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 SUBCKT"
-			(at 85.09 109.22 0)
+		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
+			(at 86.36 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5630,17 +3487,8 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Name" "CD4069"
-			(at 85.09 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 85.09 109.22 0)
+		(property "Description" "Quad And 2 inputs"
+			(at 86.36 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5649,83 +3497,467 @@
 			)
 		)
 		(pin "4"
-			(uuid "c93d537e-812d-4de0-8189-2977c738d889")
-		)
-		(pin "13"
-			(uuid "416f0397-dba5-465c-b76e-523100922b79")
-		)
-		(pin "3"
-			(uuid "32546d63-3234-4e37-be87-915c1121d13d")
-		)
-		(pin "5"
-			(uuid "2c040c35-cbad-4279-8fe6-dd03d9ce7755")
-		)
-		(pin "1"
-			(uuid "40dc01e4-2ed3-4f93-b74a-7250a58aee90")
-		)
-		(pin "8"
-			(uuid "55c14c5e-bc06-48b7-9e34-a4dbbe048b3e")
-		)
-		(pin "12"
-			(uuid "c00a1fc1-80ec-49c5-80a8-398f1d94d731")
+			(uuid "e28f772d-ba1b-4d3c-a1ee-abbc682632cf")
 		)
 		(pin "10"
-			(uuid "4973b22f-0dd8-4a07-89ba-ca1468cdf3de")
-		)
-		(pin "6"
-			(uuid "c3978360-6ab8-4397-bdd2-718efb0be5e3")
+			(uuid "ab2c5116-76f2-43d6-9906-e3fb20664284")
 		)
 		(pin "9"
-			(uuid "ed29b988-8965-4d5f-be2c-75dc9c9bb454")
+			(uuid "2d4ed1b3-c6f4-4e5c-9912-1c50840abf96")
 		)
-		(pin "7"
-			(uuid "d461302d-0f4b-4baf-aed0-68f11445bc91")
+		(pin "8"
+			(uuid "8f36f262-301d-4cef-8d0b-10bf4e5d2324")
 		)
-		(pin "14"
-			(uuid "115405a8-423d-4ae4-a1e3-af1cfe5f3ec1")
+		(pin "12"
+			(uuid "d5e7f288-f3ef-4039-be77-65dd39a69f0f")
 		)
-		(pin "11"
-			(uuid "12e73c37-2340-4bda-abc9-a8b50b208efa")
+		(pin "6"
+			(uuid "eb9cbace-94f6-4b33-91b9-a35e5eb306fe")
+		)
+		(pin "5"
+			(uuid "d78f2a5c-aa03-4b61-b549-eb2b31417866")
 		)
 		(pin "2"
-			(uuid "78d63677-9e1e-4f09-ba20-d9d8ff3eefe9")
+			(uuid "6cbc4e59-1fac-46af-bcea-a283ca17599d")
+		)
+		(pin "3"
+			(uuid "601c0e2d-a6f8-49a0-9e25-6908cc566a66")
+		)
+		(pin "11"
+			(uuid "f29a3ead-7bd5-485d-8dd1-d218d84117ff")
+		)
+		(pin "13"
+			(uuid "a4133a9d-852c-4c66-80cc-2c0dba1b9329")
+		)
+		(pin "1"
+			(uuid "fe083e2a-1937-4de8-bd22-7b6dff64ca54")
+		)
+		(pin "14"
+			(uuid "f641120c-cc87-49c3-a6fc-71b4268c95dd")
+		)
+		(pin "7"
+			(uuid "43c60022-34ec-4bfd-8676-975f1a93cca4")
 		)
 		(instances
 			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U8")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U4")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U12")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U56")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U40")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U36")
-					(unit 2)
-				)
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U52")
+					(reference "U39")
 					(unit 2)
 				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U44")
-					(unit 2)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:4071")
+		(at 194.31 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4a2cfe45-6313-442d-b19e-6cda768090a5")
+		(property "Reference" "U43"
+			(at 194.31 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U48")
+			)
+		)
+		(property "Value" "4071"
+			(at 194.31 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Quad Or 2 inputs"
+			(at 194.31 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "9"
+			(uuid "ed4d15a4-8d92-4043-b43a-f9e4dfdce4ac")
+		)
+		(pin "2"
+			(uuid "9e3b0e8b-c9a9-4b26-8999-b4ea4c4f2ea3")
+		)
+		(pin "10"
+			(uuid "89215885-555f-4ba4-9257-a05992970ed7")
+		)
+		(pin "14"
+			(uuid "b788a6b4-8da0-4ab7-ad7a-e19d2e74678f")
+		)
+		(pin "6"
+			(uuid "17865aec-6c6f-4d47-924c-2fbd4bc5396d")
+		)
+		(pin "7"
+			(uuid "abd826c2-be19-40f9-9405-aa916f2a8c13")
+		)
+		(pin "5"
+			(uuid "7a82254f-0b8c-42a9-9482-71c08e27aad4")
+		)
+		(pin "11"
+			(uuid "08af8ada-c932-4a25-a30f-6894430ea2c1")
+		)
+		(pin "4"
+			(uuid "5b28ecf0-8321-4b5d-9cb6-d18a30f06ca2")
+		)
+		(pin "3"
+			(uuid "ff50eae0-216c-4285-88dc-25ef82923d1b")
+		)
+		(pin "13"
+			(uuid "a8b2fcc4-6423-4fd9-9191-1469def19dd3")
+		)
+		(pin "12"
+			(uuid "3a24d6b6-77f5-4f92-b446-9eedd110458c")
+		)
+		(pin "8"
+			(uuid "d8d272e2-fdac-4398-90fe-29750aa0b9ec")
+		)
+		(pin "1"
+			(uuid "9e3ff71e-3899-4f6c-baa8-469bca5d4041")
+		)
+		(instances
+			(project "DTS"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
+					(reference "U43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:4081")
+		(at 144.78 106.68 0)
+		(unit 4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "521879cd-63c0-44ab-9b8c-6fd2c33df1d8")
+		(property "Reference" "U42"
+			(at 144.7717 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4081"
+			(at 144.7717 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
+			(at 144.78 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
+			(at 144.78 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Quad And 2 inputs"
+			(at 144.78 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "1b6cc6cb-9e18-4acc-8d7f-329b3c72e8e5")
+		)
+		(pin "10"
+			(uuid "ab2c5116-76f2-43d6-9906-e3fb20664292")
+		)
+		(pin "9"
+			(uuid "2d4ed1b3-c6f4-4e5c-9912-1c50840abfa4")
+		)
+		(pin "8"
+			(uuid "8f36f262-301d-4cef-8d0b-10bf4e5d2332")
+		)
+		(pin "12"
+			(uuid "6906d988-24a3-48af-836d-12e7b245a5e9")
+		)
+		(pin "6"
+			(uuid "2b4c9c1e-af01-4652-bd41-082ee70a9f87")
+		)
+		(pin "5"
+			(uuid "364232d3-ab98-4e77-abc6-73417fe805d0")
+		)
+		(pin "2"
+			(uuid "6cbc4e59-1fac-46af-bcea-a283ca1759ad")
+		)
+		(pin "3"
+			(uuid "601c0e2d-a6f8-49a0-9e25-6908cc566a76")
+		)
+		(pin "11"
+			(uuid "ae027adb-0133-4b28-929c-c8992e56fd9d")
+		)
+		(pin "13"
+			(uuid "2a1af6a2-daf5-4ad3-8507-c2b0d823cf04")
+		)
+		(pin "1"
+			(uuid "fe083e2a-1937-4de8-bd22-7b6dff64ca64")
+		)
+		(pin "14"
+			(uuid "f641120c-cc87-49c3-a6fc-71b4268c95eb")
+		)
+		(pin "7"
+			(uuid "43c60022-34ec-4bfd-8676-975f1a93ccb2")
+		)
+		(instances
+			(project "DTS"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
+					(reference "U42")
+					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:4081")
+		(at 144.78 57.15 0)
+		(unit 4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5e5b74a8-2e64-43ac-9b51-4646e1563429")
+		(property "Reference" "U39"
+			(at 144.7717 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4081"
+			(at 144.7717 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
+			(at 144.78 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
+			(at 144.78 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Quad And 2 inputs"
+			(at 144.78 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "1b6cc6cb-9e18-4acc-8d7f-329b3c72e8d8")
+		)
+		(pin "10"
+			(uuid "ab2c5116-76f2-43d6-9906-e3fb20664286")
+		)
+		(pin "9"
+			(uuid "2d4ed1b3-c6f4-4e5c-9912-1c50840abf98")
+		)
+		(pin "8"
+			(uuid "8f36f262-301d-4cef-8d0b-10bf4e5d2326")
+		)
+		(pin "12"
+			(uuid "f12d8fd2-bbb8-48d8-8afe-3a3e39e58886")
+		)
+		(pin "6"
+			(uuid "2b4c9c1e-af01-4652-bd41-082ee70a9f7a")
+		)
+		(pin "5"
+			(uuid "364232d3-ab98-4e77-abc6-73417fe805c3")
+		)
+		(pin "2"
+			(uuid "6cbc4e59-1fac-46af-bcea-a283ca17599f")
+		)
+		(pin "3"
+			(uuid "601c0e2d-a6f8-49a0-9e25-6908cc566a68")
+		)
+		(pin "11"
+			(uuid "a2f12e75-be38-4ce7-a7e3-1ce8e3b374a8")
+		)
+		(pin "13"
+			(uuid "aee55de5-daa3-4cda-9ba9-ea1fd5faeb05")
+		)
+		(pin "1"
+			(uuid "fe083e2a-1937-4de8-bd22-7b6dff64ca56")
+		)
+		(pin "14"
+			(uuid "f641120c-cc87-49c3-a6fc-71b4268c95de")
+		)
+		(pin "7"
+			(uuid "43c60022-34ec-4bfd-8676-975f1a93cca5")
+		)
+		(instances
+			(project "DTS"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
+					(reference "U39")
+					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:4081")
+		(at 144.78 73.66 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8a9b1ebb-8528-4b69-bb61-a833ba5821d7")
+		(property "Reference" "U42"
+			(at 144.7717 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4081"
+			(at 144.7717 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
+			(at 144.78 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
+			(at 144.78 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Quad And 2 inputs"
+			(at 144.78 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "d6ea6995-2eef-4869-a543-519b625c17dd")
+		)
+		(pin "10"
+			(uuid "ab2c5116-76f2-43d6-9906-e3fb20664289")
+		)
+		(pin "9"
+			(uuid "2d4ed1b3-c6f4-4e5c-9912-1c50840abf9b")
+		)
+		(pin "8"
+			(uuid "8f36f262-301d-4cef-8d0b-10bf4e5d2329")
+		)
+		(pin "12"
+			(uuid "d5e7f288-f3ef-4039-be77-65dd39a69f12")
+		)
+		(pin "6"
+			(uuid "a1437d80-9dbd-4ce8-9183-2596a5b04fdd")
+		)
+		(pin "5"
+			(uuid "86348343-8d55-45c9-afc0-69a756d81baf")
+		)
+		(pin "2"
+			(uuid "6cbc4e59-1fac-46af-bcea-a283ca1759a1")
+		)
+		(pin "3"
+			(uuid "601c0e2d-a6f8-49a0-9e25-6908cc566a6a")
+		)
+		(pin "11"
+			(uuid "f29a3ead-7bd5-485d-8dd1-d218d8411802")
+		)
+		(pin "13"
+			(uuid "a4133a9d-852c-4c66-80cc-2c0dba1b932c")
+		)
+		(pin "1"
+			(uuid "fe083e2a-1937-4de8-bd22-7b6dff64ca58")
+		)
+		(pin "14"
+			(uuid "f641120c-cc87-49c3-a6fc-71b4268c95e1")
+		)
+		(pin "7"
+			(uuid "43c60022-34ec-4bfd-8676-975f1a93cca8")
+		)
+		(instances
+			(project "DTS"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
+					(reference "U42")
 					(unit 2)
 				)
 			)
@@ -5734,15 +3966,15 @@
 	(symbol
 		(lib_id "4xxx:4071")
 		(at 194.31 96.52 0)
-		(unit 4)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "a5694638-d398-405d-82ac-77b45c1bc02c")
-		(property "Reference" "U53"
-			(at 194.31 87.63 0)
+		(uuid "9697bd6e-2816-434c-aaac-b081a47de685")
+		(property "Reference" "U43"
+			(at 194.31 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5750,7 +3982,7 @@
 			)
 		)
 		(property "Value" "4071"
-			(at 194.31 90.17 0)
+			(at 194.31 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5784,145 +4016,77 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "SUBCKT"
-			(at 194.31 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 194.31 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4071"
-			(at 194.31 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 194.31 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "4059788e-f047-4d98-b36e-4323ab1bcbd2")
-		)
-		(pin "12"
-			(uuid "9ad82c08-be0e-4054-a7e1-173f8b6f9672")
-		)
-		(pin "13"
-			(uuid "2deb2179-2ef9-421d-bf76-9c5cdd645cb8")
-		)
-		(pin "5"
-			(uuid "7f92e76b-5409-46ff-afc2-62b600e24b7c")
-		)
-		(pin "1"
-			(uuid "67deb7d5-1e89-470c-ba58-17f4854a9dfe")
-		)
-		(pin "4"
-			(uuid "aad41181-0cc9-4305-acde-8161162a7a06")
-		)
-		(pin "7"
-			(uuid "2b6a128e-2341-4bac-9ccf-ae5fa337642a")
-		)
 		(pin "9"
-			(uuid "a1991b63-620d-4b95-933c-52a562f74c18")
-		)
-		(pin "6"
-			(uuid "84e6adb8-47b3-41a7-a15e-b759a1972ccb")
-		)
-		(pin "14"
-			(uuid "21f24013-1ea4-4256-9adb-da16069bce4c")
-		)
-		(pin "3"
-			(uuid "ef651161-ad47-4c36-9b01-5dac28392ca1")
-		)
-		(pin "10"
-			(uuid "9e31121a-08a1-40e2-9138-d08015925f48")
+			(uuid "ed4d15a4-8d92-4043-b43a-f9e4dfdce4ab")
 		)
 		(pin "2"
-			(uuid "ea1757b1-85c6-4f9d-82b3-6e046d1f1d5c")
+			(uuid "a07dc8d7-ef07-44c9-a88a-6bee36283bf2")
+		)
+		(pin "10"
+			(uuid "89215885-555f-4ba4-9257-a05992970ed6")
+		)
+		(pin "14"
+			(uuid "b788a6b4-8da0-4ab7-ad7a-e19d2e74678e")
+		)
+		(pin "6"
+			(uuid "d9279eeb-a3f6-4473-834d-e7c8aa374244")
+		)
+		(pin "7"
+			(uuid "abd826c2-be19-40f9-9405-aa916f2a8c12")
+		)
+		(pin "5"
+			(uuid "42950e8d-9122-440f-be43-779cad6eb898")
+		)
+		(pin "11"
+			(uuid "08af8ada-c932-4a25-a30f-6894430ea2c0")
+		)
+		(pin "4"
+			(uuid "228a7bbb-45f1-49ad-847e-7cb32345fa5c")
+		)
+		(pin "3"
+			(uuid "24b87d8d-3b06-45cb-95be-9b6b81ec9852")
+		)
+		(pin "13"
+			(uuid "a8b2fcc4-6423-4fd9-9191-1469def19dd2")
+		)
+		(pin "12"
+			(uuid "3a24d6b6-77f5-4f92-b446-9eedd110458b")
 		)
 		(pin "8"
-			(uuid "bee192ad-fda6-45a8-a0af-52e19ecb430d")
+			(uuid "d8d272e2-fdac-4398-90fe-29750aa0b9eb")
+		)
+		(pin "1"
+			(uuid "6a215432-72a6-42ef-a33d-b5655729a440")
 		)
 		(instances
 			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U9")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U5")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U13")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U57")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U41")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U37")
-					(unit 4)
-				)
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U53")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U45")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U49")
-					(unit 4)
+					(reference "U43")
+					(unit 2)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "4xxx:4081")
-		(at 27.94 99.06 0)
-		(unit 2)
+		(lib_id "4xxx:4069")
+		(at 85.09 93.98 0)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "ab769ce9-790d-4f66-8028-344340f86d56")
-		(property "Reference" "U51"
-			(at 27.9317 90.17 0)
+		(uuid "96993aca-4f92-41c2-ae1a-f870010cf0f3")
+		(property "Reference" "U32"
+			(at 85.09 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "4081"
-			(at 27.9317 92.71 0)
+		(property "Value" "4069"
+			(at 85.09 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5930,7 +4094,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 27.94 99.06 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5938,8 +4102,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 27.94 99.06 0)
+		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5947,130 +4111,166 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Quad And 2 inputs"
-			(at 27.94 99.06 0)
+		(property "Description" "Hex inverter"
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 27.94 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 27.94 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 27.94 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 27.94 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "10"
-			(uuid "6d11d166-9704-49c5-a6a2-161958762bc9")
-		)
-		(pin "14"
-			(uuid "79c830b9-d1f8-4175-a55e-fd3efa39c979")
-		)
-		(pin "2"
-			(uuid "cd1c7199-3ac3-4ed1-b5a3-5199392095d4")
 		)
 		(pin "1"
-			(uuid "953de96b-636a-4b49-a362-66b72397f5d4")
-		)
-		(pin "4"
-			(uuid "926643c5-a3d3-4bb2-8942-e210d1bbe2fa")
-		)
-		(pin "12"
-			(uuid "94ab659b-13c8-4a08-b2bb-b443f78f232b")
+			(uuid "a0e5f997-abbf-4b13-8334-3349ef26da0e")
 		)
 		(pin "11"
-			(uuid "46126866-3ba2-4efa-b928-112d2a42db61")
-		)
-		(pin "7"
-			(uuid "0434485e-9dbe-4255-b675-f32e8ea4d898")
-		)
-		(pin "5"
-			(uuid "dfdc9c58-71ea-4aa6-a1f6-630d90e8253c")
-		)
-		(pin "3"
-			(uuid "16f587db-e32f-429a-a522-e4115c3a8b6a")
-		)
-		(pin "9"
-			(uuid "3fe6e2d3-db10-49d1-84c4-2e8498d8b24e")
+			(uuid "aa726899-c842-4e5a-a7ca-336e7ed2dc2f")
 		)
 		(pin "13"
-			(uuid "57b31cfa-1481-474d-a6b1-700be7379a59")
+			(uuid "2cfa35aa-00dd-48fd-a368-69ceab5f31a9")
 		)
-		(pin "8"
-			(uuid "97568c7d-d4cd-4678-bdee-efd21a3ef633")
+		(pin "12"
+			(uuid "cc6ea3d9-d918-408d-830b-4f0b3d0cbf7a")
+		)
+		(pin "14"
+			(uuid "ead831dc-08d6-4a3c-b66c-30d1819b0038")
+		)
+		(pin "10"
+			(uuid "f04410c8-32f5-4e0b-9cdf-e9b86ed99443")
+		)
+		(pin "3"
+			(uuid "8778d823-0a73-4567-8193-1473f1f4f629")
+		)
+		(pin "2"
+			(uuid "cac64fe2-651a-4f1d-9f50-4fba89461609")
+		)
+		(pin "7"
+			(uuid "6ce69c46-5a2a-4aa4-9caa-cd76e06daaf7")
+		)
+		(pin "9"
+			(uuid "2361a7b4-0b91-4c27-b0b6-07549db36e56")
+		)
+		(pin "5"
+			(uuid "50b6791b-0b54-4940-a5f8-a4cc29eb84c8")
 		)
 		(pin "6"
-			(uuid "43fd27a0-06d1-495e-9535-541edc47f3d8")
+			(uuid "9c58ae7b-2e21-42b1-be35-9aab04ae06fa")
+		)
+		(pin "4"
+			(uuid "ffeacae4-f2c8-4d48-be11-6da2d8794eb6")
+		)
+		(pin "8"
+			(uuid "208484b9-18b9-4d6c-9418-7ece640505c7")
 		)
 		(instances
 			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U7")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U3")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U11")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U55")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U39")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U35")
-					(unit 2)
-				)
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U51")
-					(unit 2)
+					(reference "U32")
+					(unit 4)
 				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U43")
-					(unit 2)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:4069")
+		(at 85.09 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da26435f-98c9-4268-b961-ead9ebf924bf")
+		(property "Reference" "U5"
+			(at 85.09 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
 				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U47")
-					(unit 2)
+			)
+		)
+		(property "Value" "4069"
+			(at 85.09 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
+			(at 85.09 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
+			(at 85.09 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex inverter"
+			(at 85.09 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "98ec64fe-1b78-4c89-950e-f5b353ae3c2d")
+		)
+		(pin "11"
+			(uuid "aa726899-c842-4e5a-a7ca-336e7ed2dc30")
+		)
+		(pin "13"
+			(uuid "2cfa35aa-00dd-48fd-a368-69ceab5f31aa")
+		)
+		(pin "12"
+			(uuid "cc6ea3d9-d918-408d-830b-4f0b3d0cbf7b")
+		)
+		(pin "14"
+			(uuid "ead831dc-08d6-4a3c-b66c-30d1819b0039")
+		)
+		(pin "10"
+			(uuid "f04410c8-32f5-4e0b-9cdf-e9b86ed99444")
+		)
+		(pin "3"
+			(uuid "8778d823-0a73-4567-8193-1473f1f4f62a")
+		)
+		(pin "2"
+			(uuid "052c12bc-9482-4863-b102-ad62bbb949a7")
+		)
+		(pin "7"
+			(uuid "6ce69c46-5a2a-4aa4-9caa-cd76e06daaf8")
+		)
+		(pin "9"
+			(uuid "3a9cf32a-576c-4315-9f2a-34dffa6fac46")
+		)
+		(pin "5"
+			(uuid "50b6791b-0b54-4940-a5f8-a4cc29eb84c9")
+		)
+		(pin "6"
+			(uuid "9c58ae7b-2e21-42b1-be35-9aab04ae06fb")
+		)
+		(pin "4"
+			(uuid "ffeacae4-f2c8-4d48-be11-6da2d8794eb7")
+		)
+		(pin "8"
+			(uuid "0543a902-98d2-46ab-a86b-0796318f96c5")
+		)
+		(instances
+			(project "DTS"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
+					(reference "U5")
+					(unit 1)
 				)
 			)
 		)
@@ -6084,9 +4284,9 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bd002129-1ccc-401b-bd39-967a52b05c2a")
-		(property "Reference" "U54"
-			(at 144.7717 81.28 0)
+		(uuid "dd9f6a33-1885-451e-b218-89c10ae1ec56")
+		(property "Reference" "U42"
+			(at 144.7717 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6094,7 +4294,7 @@
 			)
 		)
 		(property "Value" "4081"
-			(at 144.7717 83.82 0)
+			(at 144.7717 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6128,813 +4328,53 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "SUBCKT"
-			(at 144.78 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 144.78 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 144.78 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 144.78 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "119a4875-7fdd-4b6e-ac13-88c9e2a9b3fd")
-		)
-		(pin "14"
-			(uuid "447173ed-1ca5-48fd-a2e8-85c9d082f022")
-		)
-		(pin "5"
-			(uuid "776f6317-c489-4591-813e-c45a8c10bcb0")
+		(pin "4"
+			(uuid "1b6cc6cb-9e18-4acc-8d7f-329b3c72e8d6")
 		)
 		(pin "10"
-			(uuid "d6c290c5-5844-4493-8ac0-7061d2121aaf")
-		)
-		(pin "1"
-			(uuid "d83dbdd8-e62b-48c5-bc14-fe14842a7e2a")
-		)
-		(pin "7"
-			(uuid "77c0cfa9-98dd-4085-ad7d-43e11816ef04")
-		)
-		(pin "6"
-			(uuid "e4557f30-1123-46f8-97d8-64cd898e599b")
-		)
-		(pin "12"
-			(uuid "584b5cb6-2044-404b-8c64-ab5fc468ff71")
-		)
-		(pin "8"
-			(uuid "b84d6a63-1ee7-4577-9e1f-750812508a7e")
-		)
-		(pin "13"
-			(uuid "6ab433ed-043e-42be-a438-3277e380969c")
-		)
-		(pin "11"
-			(uuid "3cae36da-dccf-4215-b63a-97d971637422")
-		)
-		(pin "2"
-			(uuid "de58df4c-b562-4c1d-bf04-8fd419a852ad")
+			(uuid "b0abc63a-6f2a-4f9d-a5be-d25a82082005")
 		)
 		(pin "9"
-			(uuid "c0d3d1a3-dced-4c97-a47e-44a62969123a")
+			(uuid "dd6fe3b4-eb6f-4fff-a352-ab1bbf4a4235")
 		)
-		(pin "4"
-			(uuid "9407fa55-2961-48f3-8b54-de3d1ab1e0c6")
+		(pin "8"
+			(uuid "8d3239c7-5014-493d-84a5-b947ecf768d2")
+		)
+		(pin "12"
+			(uuid "d5e7f288-f3ef-4039-be77-65dd39a69f0e")
+		)
+		(pin "6"
+			(uuid "2b4c9c1e-af01-4652-bd41-082ee70a9f78")
+		)
+		(pin "5"
+			(uuid "364232d3-ab98-4e77-abc6-73417fe805c1")
+		)
+		(pin "2"
+			(uuid "6cbc4e59-1fac-46af-bcea-a283ca17599c")
+		)
+		(pin "3"
+			(uuid "601c0e2d-a6f8-49a0-9e25-6908cc566a65")
+		)
+		(pin "11"
+			(uuid "f29a3ead-7bd5-485d-8dd1-d218d84117fe")
+		)
+		(pin "13"
+			(uuid "a4133a9d-852c-4c66-80cc-2c0dba1b9328")
+		)
+		(pin "1"
+			(uuid "fe083e2a-1937-4de8-bd22-7b6dff64ca53")
+		)
+		(pin "14"
+			(uuid "f641120c-cc87-49c3-a6fc-71b4268c95dc")
+		)
+		(pin "7"
+			(uuid "43c60022-34ec-4bfd-8676-975f1a93cca3")
 		)
 		(instances
 			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U10")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U6")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U14")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U58")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
+				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
 					(reference "U42")
 					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U38")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U54")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U46")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U50")
-					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4081")
-		(at 27.94 115.57 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c2610aa6-91a8-4911-a27e-6768d8d6af06")
-		(property "Reference" "U51"
-			(at 27.9317 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4081"
-			(at 27.9317 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 27.94 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 27.94 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad And 2 inputs"
-			(at 27.94 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 27.94 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 27.94 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 27.94 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 27.94 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "10"
-			(uuid "354edd5e-bde2-4154-8738-a6b276a19dce")
-		)
-		(pin "14"
-			(uuid "79c830b9-d1f8-4175-a55e-fd3efa39c975")
-		)
-		(pin "2"
-			(uuid "cd1c7199-3ac3-4ed1-b5a3-5199392095d0")
-		)
-		(pin "1"
-			(uuid "953de96b-636a-4b49-a362-66b72397f5d0")
-		)
-		(pin "4"
-			(uuid "d4f99f34-5cbb-4679-9046-27ab0a220d4e")
-		)
-		(pin "12"
-			(uuid "94ab659b-13c8-4a08-b2bb-b443f78f2327")
-		)
-		(pin "11"
-			(uuid "46126866-3ba2-4efa-b928-112d2a42db5d")
-		)
-		(pin "7"
-			(uuid "0434485e-9dbe-4255-b675-f32e8ea4d894")
-		)
-		(pin "5"
-			(uuid "81eb5c95-1068-4d4a-b452-991e7885d24c")
-		)
-		(pin "3"
-			(uuid "16f587db-e32f-429a-a522-e4115c3a8b66")
-		)
-		(pin "9"
-			(uuid "b218fb4e-0bb1-4807-8623-635d265b6d50")
-		)
-		(pin "13"
-			(uuid "57b31cfa-1481-474d-a6b1-700be7379a55")
-		)
-		(pin "8"
-			(uuid "62bb6f6d-be55-4f42-9eed-708dcb3d4884")
-		)
-		(pin "6"
-			(uuid "41133aca-bc58-4064-b3ee-2807209488ba")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U7")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U3")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U11")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U55")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U39")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U35")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U51")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U43")
-					(unit 3)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U47")
-					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4071")
-		(at 194.31 115.57 0)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ce0e196f-dc65-445a-8261-3bd23447e869")
-		(property "Reference" "U53"
-			(at 194.31 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4071"
-			(at 194.31 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 194.31 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
-			(at 194.31 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad Or 2 inputs"
-			(at 194.31 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 194.31 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 194.31 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4071"
-			(at 194.31 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 194.31 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "83352b27-745e-48f6-9cd7-5d7a8e1ffaba")
-		)
-		(pin "12"
-			(uuid "a40c337d-de3c-44cb-8177-563ca6fb9c53")
-		)
-		(pin "13"
-			(uuid "6213b6cf-9f5d-4553-b3e1-a9ac38fcd382")
-		)
-		(pin "5"
-			(uuid "95996d04-7ba4-4f21-b2af-12eb48acfa28")
-		)
-		(pin "1"
-			(uuid "67deb7d5-1e89-470c-ba58-17f4854a9dfd")
-		)
-		(pin "4"
-			(uuid "066c3946-b455-4a30-bbb6-3504716a17f5")
-		)
-		(pin "7"
-			(uuid "2b6a128e-2341-4bac-9ccf-ae5fa3376429")
-		)
-		(pin "9"
-			(uuid "a1991b63-620d-4b95-933c-52a562f74c17")
-		)
-		(pin "6"
-			(uuid "b0005453-cfa4-4c24-b3b7-e61760beca59")
-		)
-		(pin "14"
-			(uuid "21f24013-1ea4-4256-9adb-da16069bce4b")
-		)
-		(pin "3"
-			(uuid "ef651161-ad47-4c36-9b01-5dac28392ca0")
-		)
-		(pin "10"
-			(uuid "9e31121a-08a1-40e2-9138-d08015925f47")
-		)
-		(pin "2"
-			(uuid "ea1757b1-85c6-4f9d-82b3-6e046d1f1d5b")
-		)
-		(pin "8"
-			(uuid "bee192ad-fda6-45a8-a0af-52e19ecb430c")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U9")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U5")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U13")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U57")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U41")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U37")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U53")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U45")
-					(unit 2)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U49")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4069")
-		(at 194.31 40.64 0)
-		(unit 7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d24d9923-0223-4084-8abf-148b252514df")
-		(property "Reference" "U52"
-			(at 200.66 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4069"
-			(at 200.66 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Hex inverter"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt CD4069 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 SUBCKT"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4069"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 194.31 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "50e8bb25-cc60-4734-a170-10c53e488433")
-		)
-		(pin "13"
-			(uuid "416f0397-dba5-465c-b76e-523100922b78")
-		)
-		(pin "3"
-			(uuid "6ffd9580-80bc-4019-bc19-b24a0ac1b5b7")
-		)
-		(pin "5"
-			(uuid "2c040c35-cbad-4279-8fe6-dd03d9ce7754")
-		)
-		(pin "1"
-			(uuid "40dc01e4-2ed3-4f93-b74a-7250a58aee8f")
-		)
-		(pin "8"
-			(uuid "55c14c5e-bc06-48b7-9e34-a4dbbe048b3d")
-		)
-		(pin "12"
-			(uuid "c00a1fc1-80ec-49c5-80a8-398f1d94d730")
-		)
-		(pin "10"
-			(uuid "4973b22f-0dd8-4a07-89ba-ca1468cdf3dd")
-		)
-		(pin "6"
-			(uuid "c3978360-6ab8-4397-bdd2-718efb0be5e2")
-		)
-		(pin "9"
-			(uuid "ed29b988-8965-4d5f-be2c-75dc9c9bb453")
-		)
-		(pin "7"
-			(uuid "77e31a4f-e869-472d-a550-b0ba115578c9")
-		)
-		(pin "14"
-			(uuid "10def484-4f38-4847-bf52-21268fb72c2b")
-		)
-		(pin "11"
-			(uuid "12e73c37-2340-4bda-abc9-a8b50b208ef9")
-		)
-		(pin "2"
-			(uuid "78d63677-9e1e-4f09-ba20-d9d8ff3eefe8")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U8")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U4")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U12")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U56")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U40")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U36")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U52")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U44")
-					(unit 7)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U48")
-					(unit 7)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "4xxx:4081")
-		(at 171.45 40.64 0)
-		(unit 5)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "de96c9de-74b0-47e1-b03d-aba2112398f5")
-		(property "Reference" "U54"
-			(at 177.8 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4081"
-			(at 177.8 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Quad And 2 inputs"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "SUBCKT"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 171.45 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "119a4875-7fdd-4b6e-ac13-88c9e2a9b3fc")
-		)
-		(pin "14"
-			(uuid "5cb623aa-52f2-4dc3-8903-dd207e4756cf")
-		)
-		(pin "5"
-			(uuid "776f6317-c489-4591-813e-c45a8c10bcaf")
-		)
-		(pin "10"
-			(uuid "dc1312d1-fa57-4e73-b6af-edc2a539ec24")
-		)
-		(pin "1"
-			(uuid "d83dbdd8-e62b-48c5-bc14-fe14842a7e29")
-		)
-		(pin "7"
-			(uuid "cb465bef-ff4c-43d1-ae96-23e03162ca73")
-		)
-		(pin "6"
-			(uuid "e4557f30-1123-46f8-97d8-64cd898e599a")
-		)
-		(pin "12"
-			(uuid "584b5cb6-2044-404b-8c64-ab5fc468ff70")
-		)
-		(pin "8"
-			(uuid "11cff712-f6a1-49a8-8df5-998048009a46")
-		)
-		(pin "13"
-			(uuid "6ab433ed-043e-42be-a438-3277e380969b")
-		)
-		(pin "11"
-			(uuid "3cae36da-dccf-4215-b63a-97d971637421")
-		)
-		(pin "2"
-			(uuid "de58df4c-b562-4c1d-bf04-8fd419a852ac")
-		)
-		(pin "9"
-			(uuid "9f1aea97-36ab-4507-96aa-fbbe82843bd6")
-		)
-		(pin "4"
-			(uuid "9407fa55-2961-48f3-8b54-de3d1ab1e0c5")
-		)
-		(instances
-			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U10")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U6")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U14")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U58")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U42")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U38")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U54")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U46")
-					(unit 5)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U50")
-					(unit 5)
 				)
 			)
 		)
@@ -6942,15 +4382,15 @@
 	(symbol
 		(lib_id "4xxx:4081")
 		(at 86.36 73.66 0)
-		(unit 4)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "dea92bb1-919a-45cb-9187-43b9a8869478")
-		(property "Reference" "U51"
-			(at 86.3517 64.77 0)
+		(uuid "ece6bfff-fedf-46d2-bb63-666f82af6d88")
+		(property "Reference" "U39"
+			(at 86.3517 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6958,7 +4398,7 @@
 			)
 		)
 		(property "Value" "4081"
-			(at 86.3517 67.31 0)
+			(at 86.3517 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6992,121 +4432,53 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "SUBCKT"
-			(at 86.36 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Library" "/home/icy/74xx_cmos.txt"
-			(at 86.36 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Name" "CD4081"
-			(at 86.36 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14"
-			(at 86.36 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "4"
+			(uuid "1b6cc6cb-9e18-4acc-8d7f-329b3c72e8dc")
 		)
 		(pin "10"
-			(uuid "6d11d166-9704-49c5-a6a2-161958762bc8")
-		)
-		(pin "14"
-			(uuid "79c830b9-d1f8-4175-a55e-fd3efa39c978")
-		)
-		(pin "2"
-			(uuid "cd1c7199-3ac3-4ed1-b5a3-5199392095d3")
-		)
-		(pin "1"
-			(uuid "953de96b-636a-4b49-a362-66b72397f5d3")
-		)
-		(pin "4"
-			(uuid "d4f99f34-5cbb-4679-9046-27ab0a220d51")
-		)
-		(pin "12"
-			(uuid "6a73947d-f270-48dc-a9c4-9caafc8b002e")
-		)
-		(pin "11"
-			(uuid "3ddfd6d7-a2b6-449c-b664-d1978c916379")
-		)
-		(pin "7"
-			(uuid "0434485e-9dbe-4255-b675-f32e8ea4d897")
-		)
-		(pin "5"
-			(uuid "81eb5c95-1068-4d4a-b452-991e7885d24f")
-		)
-		(pin "3"
-			(uuid "16f587db-e32f-429a-a522-e4115c3a8b69")
+			(uuid "521f0a0c-fd8f-4a55-9de7-a84f90c3ac7e")
 		)
 		(pin "9"
-			(uuid "3fe6e2d3-db10-49d1-84c4-2e8498d8b24d")
-		)
-		(pin "13"
-			(uuid "8a3c8e8e-6c55-4ccc-8812-c15c1117fb16")
+			(uuid "8284de2b-91c8-48b2-85ad-a0d4b6327ca4")
 		)
 		(pin "8"
-			(uuid "97568c7d-d4cd-4678-bdee-efd21a3ef632")
+			(uuid "9e7a224e-6155-42db-9d0f-b102c100178c")
+		)
+		(pin "12"
+			(uuid "d5e7f288-f3ef-4039-be77-65dd39a69f14")
 		)
 		(pin "6"
-			(uuid "41133aca-bc58-4064-b3ee-2807209488bd")
+			(uuid "2b4c9c1e-af01-4652-bd41-082ee70a9f7e")
+		)
+		(pin "5"
+			(uuid "364232d3-ab98-4e77-abc6-73417fe805c7")
+		)
+		(pin "2"
+			(uuid "6cbc4e59-1fac-46af-bcea-a283ca1759a4")
+		)
+		(pin "3"
+			(uuid "601c0e2d-a6f8-49a0-9e25-6908cc566a6d")
+		)
+		(pin "11"
+			(uuid "f29a3ead-7bd5-485d-8dd1-d218d8411804")
+		)
+		(pin "13"
+			(uuid "a4133a9d-852c-4c66-80cc-2c0dba1b932e")
+		)
+		(pin "1"
+			(uuid "fe083e2a-1937-4de8-bd22-7b6dff64ca5b")
+		)
+		(pin "14"
+			(uuid "f641120c-cc87-49c3-a6fc-71b4268c95e4")
+		)
+		(pin "7"
+			(uuid "43c60022-34ec-4bfd-8676-975f1a93ccab")
 		)
 		(instances
 			(project "DTS"
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/93e11e3e-2301-4473-a7b3-f3954dafa041"
-					(reference "U7")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/9e4a3ba5-4fb1-4786-aada-961b2ce7cdd6"
-					(reference "U3")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/acfefd94-800b-451c-9f4d-f2224fe06d88"
-					(reference "U11")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/5d885796-f762-4742-ab2d-2a53c9c306a2"
-					(reference "U55")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/65d8d6b3-4839-42a8-a068-6b97ae912901"
-					(reference "U39")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/828ca9c0-dcdc-401c-b27e-e3b57f132ea1"
-					(reference "U35")
-					(unit 4)
-				)
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a3f7405b-b1e8-4006-b186-e31124139b94"
-					(reference "U51")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/a9736559-c044-442b-a6ae-1f2d06f10899"
-					(reference "U43")
-					(unit 4)
-				)
-				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/60cf81cc-e4e5-4751-8bdc-8a094e4e39c9/f85719bc-09cd-4203-8ebc-6584b445b3e9"
-					(reference "U47")
-					(unit 4)
+					(reference "U39")
+					(unit 3)
 				)
 			)
 		)

@@ -33,8 +33,4 @@ Main functional blocks of your schematic.
 
     Sign Extend: Due to different between output of multiply operation (6 bits) and all other operation (3 bits), we add sign bit to make all the output 6 bits
     
-🔍 Viewing the Design
-
-    Quick View: A static PDF of the schematic is available in docs/schematic.pdf.
-
-    Editing: Clone this repository and open the .kicad_pro file in KiCad.
+🔍 Editing the Design: Clone this repository and open the .kicad_pro file in KiCad.

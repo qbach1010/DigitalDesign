@@ -1,4 +1,6 @@
 ⚡ [Project Name]: Digital Design project
+
+
 📝 Project Overview
 
 Design a 3 bits signed (X) to 3 bits signed (Y) computer, which include operation add, subtract, multiply and XOR. User can select X, Y and operation to compute via switch. 

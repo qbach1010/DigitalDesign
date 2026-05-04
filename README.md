@@ -5,13 +5,13 @@
 Design a 3-bit signed (X) to 3-bit signed (Y) computer, which includes operations: add, subtract, multiply, and XOR. The user can select X, Y, and the operation to compute via physical switches. 
 
 *   **EDA Tool:** KiCad 10.0
-*   
+  
 *   **Dimensions:** 120 x 180 mm
-*   
+  
 *   **Layer Count:** 2 layers
-*   
+  
 *   **Primary Logic:** Computes directly through discrete logic gates: AND (7400), OR (7432), and NOT (7404).
-*   
+  
 *   **Libraries Used:** Standard KiCad library.
 
 ### 📸 Schematics & Layout
@@ -26,13 +26,13 @@ Design a 3-bit signed (X) to 3-bit signed (Y) computer, which includes operation
 The main functional blocks of the schematic include:
 
 *   **Power Supply:** Uses a 7805 voltage regulator to power up the circuit and provide the logic HIGH.
-*   
+  
 *   **Adder:** A simple 3-bit to 3-bit adder using full adders.
-*   
+  
 *   **Two's Complement:** Changes the sign of the 3-bit number, utilizing the adder block to also perform subtraction.
-*   
+  
 *   **Multiplier:** Uses **Baugh-Wooley multiplication** for multiplying the signed 3-bit numbers.
-*   
+  
 *   **Sign Extend:** Due to the difference between the output of the multiply operation (6 bits) and all other operations (3 bits), sign-extension logic is added to make all final outputs a uniform 6 bits wide.
 
 ---

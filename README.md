@@ -13,6 +13,8 @@ Design a 3 bits signed (X) to 3 bits signed (Y) computer, which include operatio
 
     Primary MCU: Compute directly throughout logic gate AND (7400), OR (7432) and NOT (7404)
 
+<img width="1790" height="1255" alt="image" src="https://github.com/user-attachments/assets/75363281-afc4-4d98-a97d-bf59b7ae0462" />
+
 <img width="2616" height="1424" alt="image" src="https://github.com/user-attachments/assets/498dab5f-2e6c-457b-a0a1-c24644cecd59" />
 
 KiCad library used: Using standard library from KiCad, not included here

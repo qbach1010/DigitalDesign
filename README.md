@@ -13,17 +13,7 @@ Design a 3 bits signed (X) to 3 bits signed (Y) computer, which include operatio
 
 <img width="2616" height="1424" alt="image" src="https://github.com/user-attachments/assets/498dab5f-2e6c-457b-a0a1-c24644cecd59" />
 
-📂 Repository Structure
-KiCad library: Using standard library from KiCad
-
-Plaintext
-
-├── fab/                # Manufacturing files (Gerbers, Drill files, Pick & Place, CPL)
-├── docs/               # PDF schematics, board renders, and datasheets
-├── bom/                # Bill of Materials (.csv) and Interactive HTML BOM
-├── [project].kicad_pro # KiCad project file
-├── [project].kicad_sch # Main schematic file
-└── [project].kicad_pcb # PCB layout file
+KiCad library used: Using standard library from KiCad, not included here
 
 🛠️ Key Hardware Features
 

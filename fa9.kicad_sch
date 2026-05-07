@@ -2915,6 +2915,16 @@
 		)
 		(uuid "4f2af79b-a283-4809-beed-21bdf2cb12c5")
 	)
+	(label "x'y"
+		(at 157.48 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5190902c-99d3-4261-a134-1f544a573c0e")
+	)
 	(label "temp3"
 		(at 181.61 118.11 0)
 		(effects
@@ -2974,16 +2984,6 @@
 			(justify left bottom)
 		)
 		(uuid "6aabcfc9-6ee9-44d1-95a1-d6b59c640bfc")
-	)
-	(label "xy'"
-		(at 157.48 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "793d6a65-01d0-43b7-90d0-d1d1ca2e6060")
 	)
 	(label "temp1"
 		(at 157.48 73.66 0)

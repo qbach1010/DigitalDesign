@@ -2855,7 +2855,7 @@
 		)
 		(uuid "3e8da4a1-39d6-424d-8f7b-6a73df0af4c5")
 	)
-	(label "xy'"
+	(label "x'y"
 		(at 157.48 57.15 0)
 		(effects
 			(font
@@ -2863,7 +2863,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5ba2d969-d518-4390-936c-06061b5a0d7a")
+		(uuid "48486293-fb7d-48f8-bbfc-9dc246e046ad")
 	)
 	(label "xy' + x'y"
 		(at 127 71.12 0)

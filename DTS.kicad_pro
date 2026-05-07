@@ -194,7 +194,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -543,7 +544,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gbr and drl file/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -722,7 +723,7 @@
         "uuid": "1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D1",
     "variants": []
   },
   "sheets": [

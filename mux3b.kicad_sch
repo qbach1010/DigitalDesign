@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "119a0e59-26a3-48e9-a2a8-3633b5d7d545")
 	(paper "A4")
 	(lib_symbols
@@ -12,8 +12,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "U"
 				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -22,6 +26,8 @@
 			)
 			(property "Value" "4069"
 				(at 0 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -30,33 +36,41 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Hex inverter"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -65,20 +79,24 @@
 			)
 			(property "ki_keywords" "CMOS NOT"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "DIP?14*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "4069_1_0"
@@ -97,7 +115,7 @@
 				(pin input line
 					(at -7.62 0 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -115,7 +133,7 @@
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -147,7 +165,7 @@
 				(pin input line
 					(at -7.62 0 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -165,7 +183,7 @@
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -197,7 +215,7 @@
 				(pin input line
 					(at -7.62 0 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -215,7 +233,7 @@
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -244,28 +262,10 @@
 						(type background)
 					)
 				)
-				(pin input line
-					(at -7.62 0 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -273,6 +273,24 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -294,28 +312,10 @@
 						(type background)
 					)
 				)
-				(pin input line
-					(at -7.62 0 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -323,6 +323,24 @@
 						)
 					)
 					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -344,28 +362,10 @@
 						(type background)
 					)
 				)
-				(pin input line
-					(at -7.62 0 0)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -380,19 +380,17 @@
 						)
 					)
 				)
-			)
-			(symbol "4069_7_0"
-				(pin power_in line
-					(at 0 12.7 270)
-					(length 5.08)
-					(name "VDD"
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "14"
+					(number "13"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -400,6 +398,8 @@
 						)
 					)
 				)
+			)
+			(symbol "4069_7_0"
 				(pin power_in line
 					(at 0 -12.7 90)
 					(length 5.08)
@@ -411,6 +411,24 @@
 						)
 					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 12.7 270)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -435,14 +453,19 @@
 			(embedded_fonts no)
 		)
 		(symbol "4xxx:4071"
+			(body_styles demorgan)
 			(pin_names
 				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "U"
 				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -451,6 +474,8 @@
 			)
 			(property "Value" "4071"
 				(at 0 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -459,33 +484,41 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Quad Or 2 inputs"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -494,20 +527,24 @@
 			)
 			(property "ki_keywords" "CMOS OR2"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "DIP?14*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "4071_1_1"
@@ -588,7 +625,7 @@
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -606,7 +643,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -624,7 +661,7 @@
 				(pin output line
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -668,7 +705,7 @@
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -686,7 +723,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -704,7 +741,7 @@
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -795,10 +832,28 @@
 						(type background)
 					)
 				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -816,7 +871,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -824,24 +879,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -875,10 +912,28 @@
 						(type background)
 					)
 				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -896,7 +951,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -904,24 +959,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output inverted
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1008,7 +1045,7 @@
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1026,7 +1063,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1044,7 +1081,7 @@
 				(pin output line
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1088,7 +1125,7 @@
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1106,7 +1143,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1124,7 +1161,7 @@
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1215,10 +1252,28 @@
 						(type background)
 					)
 				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1236,7 +1291,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1244,24 +1299,6 @@
 						)
 					)
 					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1295,10 +1332,28 @@
 						(type background)
 					)
 				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1316,7 +1371,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1331,44 +1386,8 @@
 						)
 					)
 				)
-				(pin output inverted
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
 			(symbol "4071_5_0"
-				(pin power_in line
-					(at 0 12.7 270)
-					(length 5.08)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin power_in line
 					(at 0 -12.7 90)
 					(length 5.08)
@@ -1380,6 +1399,24 @@
 						)
 					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 12.7 270)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1404,14 +1441,19 @@
 			(embedded_fonts no)
 		)
 		(symbol "4xxx:4081"
+			(body_styles demorgan)
 			(pin_names
 				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "U"
 				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1420,6 +1462,8 @@
 			)
 			(property "Value" "4081"
 				(at 0 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1428,33 +1472,41 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Quad And 2 inputs"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_locked" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1463,20 +1515,24 @@
 			)
 			(property "ki_keywords" "CMOS And2"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "DIP?14*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "4081_1_1"
@@ -1507,7 +1563,7 @@
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1525,7 +1581,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1543,7 +1599,7 @@
 				(pin output line
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1637,7 +1693,7 @@
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1655,7 +1711,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1673,7 +1729,7 @@
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1714,10 +1770,28 @@
 						(type background)
 					)
 				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1735,7 +1809,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1743,24 +1817,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1844,10 +1900,28 @@
 						(type background)
 					)
 				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1865,7 +1939,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1873,24 +1947,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output inverted
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1927,7 +1983,7 @@
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1945,7 +2001,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1963,7 +2019,7 @@
 				(pin output line
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2057,7 +2113,7 @@
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2075,7 +2131,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2093,7 +2149,7 @@
 				(pin output inverted
 					(at 7.62 0 180)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2134,10 +2190,28 @@
 						(type background)
 					)
 				)
+				(pin output line
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2155,7 +2229,7 @@
 				(pin input line
 					(at -7.62 -2.54 0)
 					(length 3.81)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2163,24 +2237,6 @@
 						)
 					)
 					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2264,10 +2320,28 @@
 						(type background)
 					)
 				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin input inverted
 					(at -7.62 2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2285,7 +2359,7 @@
 				(pin input inverted
 					(at -7.62 -2.54 0)
 					(length 4.318)
-					(name "~"
+					(name ""
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2300,44 +2374,8 @@
 						)
 					)
 				)
-				(pin output inverted
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
 			(symbol "4081_5_0"
-				(pin power_in line
-					(at 0 12.7 270)
-					(length 5.08)
-					(name "VDD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin power_in line
 					(at 0 -12.7 90)
 					(length 5.08)
@@ -2349,6 +2387,24 @@
 						)
 					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 12.7 270)
+					(length 5.08)
+					(name "VDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2680,14 +2736,18 @@
 		(lib_id "4xxx:4081")
 		(at 107.95 100.33 0)
 		(unit 2)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "032a27d7-6481-4263-8538-fcd82d28e891")
 		(property "Reference" "U34"
 			(at 107.9417 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2696,6 +2756,8 @@
 		)
 		(property "Value" "4081"
 			(at 107.9417 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2704,29 +2766,35 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 107.95 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
 			(at 107.95 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
 			(at 107.95 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "9"
@@ -2772,7 +2840,7 @@
 			(uuid "0c5acb07-754e-47d5-a059-a4b8f7aff15b")
 		)
 		(instances
-			(project ""
+			(project "DTS"
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/fcec0733-85ae-4916-ae1b-af5045bbbd48"
 					(reference "U34")
 					(unit 2)
@@ -2784,14 +2852,18 @@
 		(lib_id "4xxx:4081")
 		(at 140.97 63.5 0)
 		(unit 3)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "308cab41-a635-459b-8e39-da95d251d63b")
 		(property "Reference" "U29"
 			(at 140.9617 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2800,6 +2872,8 @@
 		)
 		(property "Value" "4081"
 			(at 140.9617 57.15 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2808,75 +2882,81 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 140.97 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
 			(at 140.97 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
 			(at 140.97 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "9"
-			(uuid "8d063269-a30e-4457-975d-2a2459731cb2")
+			(uuid "8d063269-a30e-4457-975d-2a2459731cb3")
 		)
 		(pin "6"
-			(uuid "1b85029d-5390-4594-8e62-374fba8e6afa")
+			(uuid "1b85029d-5390-4594-8e62-374fba8e6afb")
 		)
 		(pin "12"
-			(uuid "0548e6a7-5154-421d-8336-08c2d0d4c744")
+			(uuid "0548e6a7-5154-421d-8336-08c2d0d4c745")
 		)
 		(pin "11"
-			(uuid "0df76719-f596-4e8e-899a-6cba71b81af8")
+			(uuid "0df76719-f596-4e8e-899a-6cba71b81af9")
 		)
 		(pin "13"
-			(uuid "825078e6-7573-4bbb-86f1-c65cf237e40b")
+			(uuid "825078e6-7573-4bbb-86f1-c65cf237e40c")
 		)
 		(pin "1"
-			(uuid "6e6f415c-5d1d-4ec5-af1b-1dc5ed8eef87")
+			(uuid "6e6f415c-5d1d-4ec5-af1b-1dc5ed8eef88")
 		)
 		(pin "3"
-			(uuid "b884eb82-8562-476f-a47d-037ebab112b1")
+			(uuid "b884eb82-8562-476f-a47d-037ebab112b2")
 		)
 		(pin "2"
-			(uuid "a7e4dd3d-d82d-4c4c-96db-b8025208699b")
+			(uuid "a7e4dd3d-d82d-4c4c-96db-b8025208699c")
 		)
 		(pin "7"
-			(uuid "48cfe979-a7f9-4de2-9e67-d507fad4993c")
+			(uuid "48cfe979-a7f9-4de2-9e67-d507fad4993d")
 		)
 		(pin "8"
-			(uuid "6ce02c30-5c3b-4b0f-a62c-4aa0e9bb165f")
+			(uuid "6ce02c30-5c3b-4b0f-a62c-4aa0e9bb1660")
 		)
 		(pin "10"
-			(uuid "033a8601-4ffc-4494-8bca-437736eb5a9b")
+			(uuid "033a8601-4ffc-4494-8bca-437736eb5a9c")
 		)
 		(pin "4"
-			(uuid "2eaa2567-c181-407a-aeb6-4346b4f1a29e")
+			(uuid "2eaa2567-c181-407a-aeb6-4346b4f1a29f")
 		)
 		(pin "5"
-			(uuid "88adba1c-2d36-4d72-9d56-364824e37aab")
+			(uuid "88adba1c-2d36-4d72-9d56-364824e37aac")
 		)
 		(pin "14"
-			(uuid "0c5acb07-754e-47d5-a059-a4b8f7aff15b")
+			(uuid "0c5acb07-754e-47d5-a059-a4b8f7aff15c")
 		)
 		(instances
-			(project ""
+			(project "DTS"
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/fcec0733-85ae-4916-ae1b-af5045bbbd48"
 					(reference "U29")
 					(unit 3)
@@ -2888,14 +2968,18 @@
 		(lib_id "4xxx:4069")
 		(at 40.64 41.91 0)
 		(unit 4)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31e4ebf6-c256-4ee8-91c7-1395645ddeb0")
 		(property "Reference" "U4"
 			(at 40.64 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2904,6 +2988,8 @@
 		)
 		(property "Value" "4069"
 			(at 40.64 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2912,29 +2998,35 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 40.64 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4069ubms.pdf"
 			(at 40.64 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Hex inverter"
 			(at 40.64 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2992,14 +3084,18 @@
 		(lib_id "4xxx:4071")
 		(at 40.64 76.2 0)
 		(unit 2)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32906345-e777-474e-81de-efc73ffee322")
 		(property "Reference" "U3"
 			(at 40.64 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3008,6 +3104,8 @@
 		)
 		(property "Value" "4071"
 			(at 40.64 71.12 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3016,29 +3114,35 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 40.64 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
 			(at 40.64 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
 			(at 40.64 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "9"
@@ -3096,14 +3200,18 @@
 		(lib_id "4xxx:4081")
 		(at 107.95 82.55 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35a64a29-cb8f-4493-83e6-fb8bae3cb380")
 		(property "Reference" "U34"
 			(at 107.9417 73.66 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3112,6 +3220,8 @@
 		)
 		(property "Value" "4081"
 			(at 107.9417 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3120,75 +3230,81 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 107.95 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
 			(at 107.95 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
 			(at 107.95 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "9"
-			(uuid "8d063269-a30e-4457-975d-2a2459731cb2")
+			(uuid "8d063269-a30e-4457-975d-2a2459731cb4")
 		)
 		(pin "6"
-			(uuid "1b85029d-5390-4594-8e62-374fba8e6afa")
+			(uuid "1b85029d-5390-4594-8e62-374fba8e6afc")
 		)
 		(pin "12"
-			(uuid "0548e6a7-5154-421d-8336-08c2d0d4c744")
+			(uuid "0548e6a7-5154-421d-8336-08c2d0d4c746")
 		)
 		(pin "11"
-			(uuid "0df76719-f596-4e8e-899a-6cba71b81af8")
+			(uuid "0df76719-f596-4e8e-899a-6cba71b81afa")
 		)
 		(pin "13"
-			(uuid "825078e6-7573-4bbb-86f1-c65cf237e40b")
+			(uuid "825078e6-7573-4bbb-86f1-c65cf237e40d")
 		)
 		(pin "1"
-			(uuid "6e6f415c-5d1d-4ec5-af1b-1dc5ed8eef87")
+			(uuid "6e6f415c-5d1d-4ec5-af1b-1dc5ed8eef89")
 		)
 		(pin "3"
-			(uuid "b884eb82-8562-476f-a47d-037ebab112b1")
+			(uuid "b884eb82-8562-476f-a47d-037ebab112b3")
 		)
 		(pin "2"
-			(uuid "a7e4dd3d-d82d-4c4c-96db-b8025208699b")
+			(uuid "a7e4dd3d-d82d-4c4c-96db-b8025208699d")
 		)
 		(pin "7"
-			(uuid "48cfe979-a7f9-4de2-9e67-d507fad4993c")
+			(uuid "48cfe979-a7f9-4de2-9e67-d507fad4993e")
 		)
 		(pin "8"
-			(uuid "6ce02c30-5c3b-4b0f-a62c-4aa0e9bb165f")
+			(uuid "6ce02c30-5c3b-4b0f-a62c-4aa0e9bb1661")
 		)
 		(pin "10"
-			(uuid "033a8601-4ffc-4494-8bca-437736eb5a9b")
+			(uuid "033a8601-4ffc-4494-8bca-437736eb5a9d")
 		)
 		(pin "4"
-			(uuid "2eaa2567-c181-407a-aeb6-4346b4f1a29e")
+			(uuid "2eaa2567-c181-407a-aeb6-4346b4f1a2a0")
 		)
 		(pin "5"
-			(uuid "88adba1c-2d36-4d72-9d56-364824e37aab")
+			(uuid "88adba1c-2d36-4d72-9d56-364824e37aad")
 		)
 		(pin "14"
-			(uuid "0c5acb07-754e-47d5-a059-a4b8f7aff15b")
+			(uuid "0c5acb07-754e-47d5-a059-a4b8f7aff15d")
 		)
 		(instances
-			(project ""
+			(project "DTS"
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/fcec0733-85ae-4916-ae1b-af5045bbbd48"
 					(reference "U34")
 					(unit 1)
@@ -3200,14 +3316,18 @@
 		(lib_id "4xxx:4081")
 		(at 107.95 63.5 0)
 		(unit 4)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4538d788-93cb-40e0-8b31-cdf3ce49a962")
 		(property "Reference" "U34"
 			(at 107.9417 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3216,6 +3336,8 @@
 		)
 		(property "Value" "4081"
 			(at 107.9417 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3224,29 +3346,35 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 107.95 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
 			(at 107.95 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
 			(at 107.95 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "4"
@@ -3304,14 +3432,18 @@
 		(lib_id "4xxx:4071")
 		(at 40.64 58.42 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78f4e9de-b86e-4325-8a98-97eeacb9269a")
 		(property "Reference" "U3"
 			(at 40.64 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3320,6 +3452,8 @@
 		)
 		(property "Value" "4071"
 			(at 40.64 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3328,29 +3462,35 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 40.64 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
 			(at 40.64 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
 			(at 40.64 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "9"
@@ -3408,14 +3548,18 @@
 		(lib_id "4xxx:4081")
 		(at 107.95 45.72 0)
 		(unit 3)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c40e1c7d-6415-4278-be43-b40cf818d027")
 		(property "Reference" "U34"
 			(at 107.9417 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3424,6 +3568,8 @@
 		)
 		(property "Value" "4081"
 			(at 107.9417 40.64 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3432,29 +3578,35 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 107.95 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
 			(at 107.95 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
 			(at 107.95 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "4"
@@ -3512,14 +3664,18 @@
 		(lib_id "4xxx:4071")
 		(at 40.64 95.25 0)
 		(unit 3)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc93091c-26ca-4284-a3e8-c60c4a4345fc")
 		(property "Reference" "U3"
 			(at 40.64 87.63 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3528,6 +3684,8 @@
 		)
 		(property "Value" "4071"
 			(at 40.64 90.17 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3536,29 +3694,35 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 40.64 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4071bms-72bms-75bms.pdf"
 			(at 40.64 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad Or 2 inputs"
 			(at 40.64 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "9"
@@ -3616,14 +3780,18 @@
 		(lib_id "4xxx:4081")
 		(at 140.97 81.28 0)
 		(unit 4)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e66710bc-cc30-4432-bac3-59b5203de371")
 		(property "Reference" "U29"
 			(at 140.9617 72.39 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3632,6 +3800,8 @@
 		)
 		(property "Value" "4081"
 			(at 140.9617 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3640,75 +3810,81 @@
 		)
 		(property "Footprint" "Package_DIP:CERDIP-14_W7.62mm_SideBrazed_LongPads_Socket"
 			(at 140.97 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf"
 			(at 140.97 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Quad And 2 inputs"
 			(at 140.97 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "9"
-			(uuid "8d063269-a30e-4457-975d-2a2459731cb2")
+			(uuid "8d063269-a30e-4457-975d-2a2459731cb5")
 		)
 		(pin "6"
-			(uuid "1b85029d-5390-4594-8e62-374fba8e6afa")
+			(uuid "1b85029d-5390-4594-8e62-374fba8e6afd")
 		)
 		(pin "12"
-			(uuid "0548e6a7-5154-421d-8336-08c2d0d4c744")
+			(uuid "0548e6a7-5154-421d-8336-08c2d0d4c747")
 		)
 		(pin "11"
-			(uuid "0df76719-f596-4e8e-899a-6cba71b81af8")
+			(uuid "0df76719-f596-4e8e-899a-6cba71b81afb")
 		)
 		(pin "13"
-			(uuid "825078e6-7573-4bbb-86f1-c65cf237e40b")
+			(uuid "825078e6-7573-4bbb-86f1-c65cf237e40e")
 		)
 		(pin "1"
-			(uuid "6e6f415c-5d1d-4ec5-af1b-1dc5ed8eef87")
+			(uuid "6e6f415c-5d1d-4ec5-af1b-1dc5ed8eef8a")
 		)
 		(pin "3"
-			(uuid "b884eb82-8562-476f-a47d-037ebab112b1")
+			(uuid "b884eb82-8562-476f-a47d-037ebab112b4")
 		)
 		(pin "2"
-			(uuid "a7e4dd3d-d82d-4c4c-96db-b8025208699b")
+			(uuid "a7e4dd3d-d82d-4c4c-96db-b8025208699e")
 		)
 		(pin "7"
-			(uuid "48cfe979-a7f9-4de2-9e67-d507fad4993c")
+			(uuid "48cfe979-a7f9-4de2-9e67-d507fad4993f")
 		)
 		(pin "8"
-			(uuid "6ce02c30-5c3b-4b0f-a62c-4aa0e9bb165f")
+			(uuid "6ce02c30-5c3b-4b0f-a62c-4aa0e9bb1662")
 		)
 		(pin "10"
-			(uuid "033a8601-4ffc-4494-8bca-437736eb5a9b")
+			(uuid "033a8601-4ffc-4494-8bca-437736eb5a9e")
 		)
 		(pin "4"
-			(uuid "2eaa2567-c181-407a-aeb6-4346b4f1a29e")
+			(uuid "2eaa2567-c181-407a-aeb6-4346b4f1a2a1")
 		)
 		(pin "5"
-			(uuid "88adba1c-2d36-4d72-9d56-364824e37aab")
+			(uuid "88adba1c-2d36-4d72-9d56-364824e37aae")
 		)
 		(pin "14"
-			(uuid "0c5acb07-754e-47d5-a059-a4b8f7aff15b")
+			(uuid "0c5acb07-754e-47d5-a059-a4b8f7aff15e")
 		)
 		(instances
-			(project ""
+			(project "DTS"
 				(path "/1bd2ca98-343e-4f04-8d6c-1f7257d9e9fe/fcec0733-85ae-4916-ae1b-af5045bbbd48"
 					(reference "U29")
 					(unit 4)

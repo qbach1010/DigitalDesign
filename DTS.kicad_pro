@@ -60,7 +60,32 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_overlap|196435753|95000000|0348def1-b817-4590-a64b-af14e4a9fa9a|08d69b9f-9784-4084-86cd-55eae03556fa",
+          ""
+        ],
+        [
+          "silk_overlap|201515416|94999126|0348def1-b817-4590-a64b-af14e4a9fa9a|093d4d10-e993-4698-b6e5-a9b388955e2e",
+          ""
+        ],
+        [
+          "silk_overlap|202124567|95000000|0348def1-b817-4590-a64b-af14e4a9fa9a|e81e00cd-b4a6-4d53-b0ec-08ee38d7e92d",
+          ""
+        ],
+        [
+          "silk_overlap|204810309|95000000|0348def1-b817-4590-a64b-af14e4a9fa9a|e46eaecc-2862-4ddc-8cd3-539d9bdff313",
+          ""
+        ],
+        [
+          "silk_overlap|206650000|95000000|0348def1-b817-4590-a64b-af14e4a9fa9a|1a7b6db1-c83f-4a66-bacc-71fc390e2ff6",
+          ""
+        ],
+        [
+          "silk_overlap|210396424|95000000|0348def1-b817-4590-a64b-af14e4a9fa9a|ee68dad4-dd36-442f-b51e-1abb345a9f99",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -544,7 +569,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gbr and drl file/",
+      "plot": "gerDrl/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

@@ -1850,7 +1850,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP?14*")
-		(path "/82b2c740-c98c-483d-a5ac-995fb181e02e")
+		(path "/87eb2cfd-3abf-4070-948c-24064c906972")
 		(sheetname "/")
 		(sheetfile "DTS.kicad_sch")
 		(units
@@ -29202,7 +29202,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(U19-Pad10)")
+			(net "/FullAdder1/temp2")
 			(pintype "output")
 			(uuid "a511a4df-59a9-4171-a5f8-75e7977b5984")
 		)

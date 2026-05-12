@@ -1487,16 +1487,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 48.26) (xy 71.12 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "178869ad-720f-4271-b284-69bef4ba8cd7")
-	)
-	(wire
-		(pts
 			(xy 228.6 68.58) (xy 237.49 68.58)
 		)
 		(stroke
@@ -1796,7 +1786,7 @@
 		(uuid "0118f81c-8224-4f38-816d-800f5637e3b7")
 	)
 	(label "A2B0"
-		(at 90.17 46.99 0)
+		(at 90.17 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2106,7 +2096,7 @@
 		(uuid "d288d04e-6df3-4851-9328-afd2291d0fa9")
 	)
 	(label "A0B1"
-		(at 71.12 46.99 0)
+		(at 71.12 48.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2315,7 +2305,7 @@
 	)
 	(hierarchical_label "B0"
 		(shape input)
-		(at 92.71 31.75 90)
+		(at 92.71 33.02 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2436,7 +2426,7 @@
 	)
 	(hierarchical_label "A2"
 		(shape input)
-		(at 87.63 31.75 90)
+		(at 87.63 33.02 90)
 		(effects
 			(font
 				(size 1.27 1.27)

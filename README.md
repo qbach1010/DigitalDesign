@@ -1,4 +1,4 @@
-# ⚡ Digital Design Project
+## Digital Design Project
 
 ## 📝 Project Overview
 

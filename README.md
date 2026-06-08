@@ -10,7 +10,7 @@ Design a 3-bit signed (X) to 3-bit signed (Y) computer, which includes operation
   
 *   **Layer Count:** 2 layers
   
-*   **Primary Logic:** Computes directly through discrete logic gates: AND (7400), OR (7432), and NOT (7404).
+*   **Primary Logic:** Computes directly through discrete logic gates: AND (CD4081), OR (CD4071), and NOT (74HC04).
   
 *   **Libraries Used:** Standard KiCad library.
 
@@ -25,7 +25,7 @@ Design a 3-bit signed (X) to 3-bit signed (Y) computer, which includes operation
 ## 🛠️ Key Hardware Features
 The main functional blocks of the schematic include:
 
-*   **Power Supply:** Uses a 7805 voltage regulator to power up the circuit and provide the logic HIGH.
+*   **Power Supply:** Uses a 7805 voltage regulator to accept 7 ~ 14 VDC, or just using 5VDC pin to power up the circuit and provide the logic HIGH.
   
 *   **Adder:** A simple 3-bit to 3-bit adder using full adders.
   
